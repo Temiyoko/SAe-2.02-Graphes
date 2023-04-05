@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/graphe/Arc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Added minimal constructor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,9 +58,21 @@
       <workItem from="1680697779213" duration="164000" />
       <workItem from="1680698093814" duration="327000" />
     </task>
+    <task id="LOCAL-00001" summary="Added minimal constructor">
+      <created>1680700457215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680700457215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added minimal constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added minimal constructor" />
   </component>
 </project>
