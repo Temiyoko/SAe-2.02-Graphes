@@ -1,9 +1,11 @@
 package graphe;
 
-class GrapheLArcs {
+import java.util.List;
+
+public class GrapheLArcs {
 	private List<Arc> arcs;
 
-	public GrapheLArcs(){
-		this.arcs = new List<Arc>();
+	public GrapheLArcs(String g31a){
+
 	}
 }

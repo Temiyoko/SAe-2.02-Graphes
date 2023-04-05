@@ -1,13 +1,14 @@
 package graphe;
 
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 class IGrapheTest {
 	// graphe de l'exercice 3.1 du poly de maths
