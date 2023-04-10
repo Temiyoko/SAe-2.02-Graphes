@@ -5,13 +5,13 @@ import java.util.List;
 public class GrapheLArcs implements IGraphe {
 	private List<Arc> arcs;
 
-	public GrapheLArcs(String g31a){
+	public GrapheLArcs(String graphe){
 
 	}
+	
+	public GrapheLArcs() {
 
-    public GrapheLArcs() {
-
-    }
+	}
 
 	@Override
 	public void ajouterSommet(String noeud) {
