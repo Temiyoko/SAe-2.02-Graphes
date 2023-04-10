@@ -9,6 +9,10 @@ public class GrapheLArcs implements IGraphe {
 
 	}
 
+    public GrapheLArcs() {
+
+    }
+
 	@Override
 	public void ajouterSommet(String noeud) {
 

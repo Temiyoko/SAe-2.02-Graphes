@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Classes implements IGraphe and IGrapheConst" />
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Class implements IGraphe and IGrapheConst">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheConst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,22 +36,22 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +62,7 @@
       <updated>1680697778101</updated>
       <workItem from="1680697779213" duration="164000" />
       <workItem from="1680698093814" duration="327000" />
+      <workItem from="1681148693658" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="Added minimal constructor">
       <created>1680700457215</created>
@@ -72,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680700777116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class implements IGraphe and IGrapheConst">
+      <created>1680701004982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680701004982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added minimal constructor" />
     <MESSAGE value="Classes implements IGraphe and IGrapheConst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes implements IGraphe and IGrapheConst" />
+    <MESSAGE value="Class implements IGraphe and IGrapheConst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class implements IGraphe and IGrapheConst" />
   </component>
 </project>
