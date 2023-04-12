@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Improved GrapheLArcs">
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Modified GrapheLArcs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphe/Arc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/Arc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,8 @@
       <workItem from="1680697779213" duration="164000" />
       <workItem from="1680698093814" duration="327000" />
       <workItem from="1681148693658" duration="241000" />
-      <workItem from="1681280183354" duration="6192000" />
+      <workItem from="1681280183354" duration="6751000" />
+      <workItem from="1681292494350" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Added minimal constructor">
       <created>1680700457215</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681283772757</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modified GrapheLArcs">
+      <created>1681290544211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681290544211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +127,7 @@
     <MESSAGE value="Updated sources" />
     <MESSAGE value="Coded GrapheLArcs" />
     <MESSAGE value="Improved GrapheLArcs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved GrapheLArcs" />
+    <MESSAGE value="Modified GrapheLArcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified GrapheLArcs" />
   </component>
 </project>

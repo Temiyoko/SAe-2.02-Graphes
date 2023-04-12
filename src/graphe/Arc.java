@@ -4,6 +4,10 @@ public class Arc {
     private String source, destination;
     private int valuation;
 
+    public Arc(String source){
+        this(source, "", 0);
+    }
+
     public Arc(String source, String destination, int valuation) {
         this.source = source;
         this.destination = destination;

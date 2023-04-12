@@ -1,5 +1,8 @@
 package graphe;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -7,21 +10,25 @@ public class GrapheLAdj implements IGraphe{
     private Map<String, List<Arc>> ladj;
 
     public GrapheLAdj() {
-
-    }
-
-    public GrapheLAdj(String graphe){
-
+        ladj = new HashMap<>();
     }
 
     @Override
     public void ajouterSommet(String noeud) {
-
+        ArrayList<Arc> vide = new ArrayList<>();
+        vide.add(new Arc(""));
+        ladj.put(noeud, vide);
     }
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) {
-
+        assert(ladj.containsKey(source));
+        if(ladj.get(source).contains("")) {
+            ladj.get(source).remove("");
+        }
+        ArrayList<Arc> arc = new ArrayList<>(ladj.get(source));
+        arc.add(new Arc(source, destination, valeur));
+        ladj.replace(source, arc);
     }
 
     @Override
