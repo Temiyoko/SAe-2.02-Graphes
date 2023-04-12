@@ -12,7 +12,7 @@ public class GrapheLArcs implements IGraphe {
 
 	@Override
 	public void ajouterSommet(String noeud) {
-		arcs.add(new Arc(noeud, "", 0));
+		ajouterArc(noeud, "", 0);
 	}
 
 	@Override
@@ -22,7 +22,7 @@ public class GrapheLArcs implements IGraphe {
 
 	@Override
 	public void oterSommet(String noeud) {
-		arcs.remove(new Arc(noeud, "", 0));
+		oterArc(noeud, "");
 	}
 
 	@Override
@@ -39,11 +39,8 @@ public class GrapheLArcs implements IGraphe {
 	public List<String> getSommets() {
 		List<String> sommets = new ArrayList<>();
 		for (Arc a : arcs){
-			if(!sommets.contains(a.getSource())){
+			if(a.getDestination() == ""){
 				sommets.add(a.getSource());
-			}
-			if(!sommets.contains((a.getDestination())) && a.getDestination() != ""){
-				sommets.add(a.getDestination());
 			}
 		}
 		return sommets;
@@ -72,12 +69,7 @@ public class GrapheLArcs implements IGraphe {
 
 	@Override
 	public boolean contientSommet(String sommet) {
-		for (Arc a : arcs){
-			if(a.getSource() == sommet || a.getDestination() == sommet){
-				return true;
-			}
-		}
-		return false;
+		return contientArc(sommet, "");
 	}
 
 	@Override

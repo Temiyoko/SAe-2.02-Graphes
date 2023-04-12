@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Updated sources">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
-    </list>
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLArcs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,7 @@
       <workItem from="1680697779213" duration="164000" />
       <workItem from="1680698093814" duration="327000" />
       <workItem from="1681148693658" duration="241000" />
-      <workItem from="1681280183354" duration="2708000" />
+      <workItem from="1681280183354" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="Added minimal constructor">
       <created>1680700457215</created>
@@ -91,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681148885334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Coded GrapheLArcs">
+      <created>1681282966355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681282966355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +106,7 @@
     <MESSAGE value="Classes implements IGraphe and IGrapheConst" />
     <MESSAGE value="Class implements IGraphe and IGrapheConst" />
     <MESSAGE value="Updated sources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated sources" />
+    <MESSAGE value="Coded GrapheLArcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coded GrapheLArcs" />
   </component>
 </project>
