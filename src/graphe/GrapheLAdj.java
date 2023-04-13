@@ -14,12 +14,17 @@ public class GrapheLAdj implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        ladj.put(noeud, new ArrayList<>());
+        ArrayList<Arc> vide = new ArrayList<>();
+        vide.add(new Arc(noeud));
+        ladj.put(noeud, vide);
     }
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) {
-        assert(ladj.containsKey(source) && ladj.containsKey(destination));
+        assert(contientSommet(source) && valeur >= 0);
+        if(contientArc(source, "")){
+            ladj.get(source).remove(0);
+        }
         ladj.get(source).add(new Arc(source, destination, valeur));
     }
 

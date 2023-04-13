@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Started GrapheLAdj">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml" afterDir="false" />
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +63,7 @@
       <workItem from="1681148693658" duration="241000" />
       <workItem from="1681280183354" duration="6751000" />
       <workItem from="1681292494350" duration="726000" />
-      <workItem from="1681399796220" duration="3924000" />
+      <workItem from="1681399796220" duration="4422000" />
     </task>
     <task id="LOCAL-00001" summary="Added minimal constructor">
       <created>1680700457215</created>
@@ -134,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681293161511</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj">
+      <created>1681403812927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681403812927</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +143,7 @@
     <MESSAGE value="Improved GrapheLArcs" />
     <MESSAGE value="Modified GrapheLArcs" />
     <MESSAGE value="Started GrapheLAdj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started GrapheLAdj" />
+    <MESSAGE value="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj" />
   </component>
 </project>
