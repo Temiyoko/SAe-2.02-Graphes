@@ -1,6 +1,5 @@
 package graphe;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -15,54 +14,70 @@ public class GrapheLAdj implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        ArrayList<Arc> vide = new ArrayList<>();
-        vide.add(new Arc(""));
-        ladj.put(noeud, vide);
+        ladj.put(noeud, new ArrayList<>());
     }
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) {
-        assert(ladj.containsKey(source));
-        if(ladj.get(source).contains("")) {
-            ladj.get(source).remove("");
-        }
-        ArrayList<Arc> arc = new ArrayList<>(ladj.get(source));
-        arc.add(new Arc(source, destination, valeur));
-        ladj.replace(source, arc);
+        assert(ladj.containsKey(source) && ladj.containsKey(destination));
+        ladj.get(source).add(new Arc(source, destination, valeur));
     }
 
     @Override
     public void oterSommet(String noeud) {
-
+        assert(ladj.containsKey(noeud));
+        for (Arc a : ladj.get(noeud)){
+            oterArc(a.getSource(), a.getDestination());
+        }
+        ladj.remove(noeud);
     }
 
     @Override
     public void oterArc(String source, String destination) {
-
+        ladj.get(source).removeIf(a -> a.getDestination().equals(destination));
     }
 
     @Override
     public List<String> getSommets() {
-        return null;
+        return new ArrayList<>(ladj.keySet());
     }
 
     @Override
     public List<String> getSucc(String sommet) {
-        return null;
+        assert(ladj.containsKey(sommet));
+        List<String> succeseurs = new ArrayList<>();
+        for (Arc a : ladj.get(sommet)){
+            succeseurs.add(a.getDestination());
+        }
+        return succeseurs;
     }
 
     @Override
     public int getValuation(String src, String dest) {
-        return 0;
+        assert(contientSommet(src));
+        for (Arc a : ladj.get(src)){
+            if (a.getDestination().equals(dest)){
+                return a.getValuation();
+            }
+        }
+        return -1;
     }
 
     @Override
     public boolean contientSommet(String sommet) {
-        return false;
+        return ladj.containsKey(sommet);
     }
 
     @Override
     public boolean contientArc(String src, String dest) {
+        if (!contientSommet(src)) {
+            return false;
+        }
+        for (Arc a : ladj.get(src)){
+            if (a.getDestination().equals(dest)){
+                return true;
+            }
+        }
         return false;
     }
 }

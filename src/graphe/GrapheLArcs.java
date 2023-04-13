@@ -24,9 +24,9 @@ public class GrapheLArcs implements IGraphe {
 	@Override
 	public void oterSommet(String noeud) {
 		for(Arc a : arcs){
-			if(a.getSource() == noeud){
+			if(a.getSource().equals(noeud)){
 				oterArc(noeud, a.getDestination());
-			} else if (a.getDestination() == noeud) {
+			} else if (a.getDestination().equals(noeud)) {
 				oterArc(a.getSource(), noeud);
 			}
 		}
@@ -35,7 +35,7 @@ public class GrapheLArcs implements IGraphe {
 	@Override
 	public void oterArc(String source, String destination) {
 		for (Arc a : arcs){
-			if (a.getSource() == source && a.getDestination() == destination){
+			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
 				arcs.remove(a);
 				break;
 			}
@@ -60,7 +60,7 @@ public class GrapheLArcs implements IGraphe {
 	public List<String> getSucc(String sommet) {
 		List<String> successeurs = new ArrayList<>();
 		for (Arc a : arcs){
-			if(a.getSource() == sommet){
+			if(a.getSource().equals(sommet)){
 				successeurs.add(a.getDestination());
 			}
 		}
@@ -70,7 +70,7 @@ public class GrapheLArcs implements IGraphe {
 	@Override
 	public int getValuation(String src, String dest) {
 		for (Arc a : arcs){
-			if(a.getSource() == src && a.getDestination() == dest) {
+			if(a.getSource().equals(src) && a.getDestination().equals(dest)) {
 				return a.getValuation();
 			}
 		}
@@ -80,7 +80,7 @@ public class GrapheLArcs implements IGraphe {
 	@Override
 	public boolean contientSommet(String sommet) {
 		for(Arc a : arcs){
-			if(a.getSource() == sommet || a.getDestination() == sommet){
+			if(a.getSource().equals(sommet) || a.getDestination().equals(sommet)){
 				return true;
 			}
 		}
@@ -89,8 +89,11 @@ public class GrapheLArcs implements IGraphe {
 
 	@Override
 	public boolean contientArc(String src, String dest) {
+		if(!contientSommet(src)){
+			return false;
+		}
 		for (Arc a : arcs){
-			if(a.getSource() == src && a.getDestination() == dest){
+			if(a.getSource().equals(src) && a.getDestination().equals(dest)){
 				return true;
 			}
 		}

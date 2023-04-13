@@ -106,6 +106,9 @@ public class GrapheMAdj implements IGraphe{
 
     @Override
     public boolean contientArc(String src, String dest) {
+        if(!contientSommet(src)){
+            return false;
+        }
         return getValuation(src, dest) != -1;
     }
 }
