@@ -1,5 +1,6 @@
 package graphe;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -45,17 +46,23 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public List<String> getSommets() {
-        return null;
+        return new ArrayList<>(hhadj.keySet());
     }
 
     @Override
     public List<String> getSucc(String sommet) {
-        return null;
+        return new ArrayList<>(hhadj.get(sommet).keySet());
     }
 
     @Override
     public int getValuation(String src, String dest) {
-        return 0;
+        assert(contientSommet(src));
+        for (String s : hhadj.get(src).keySet()){
+            if (s.equals(dest)){
+                return hhadj.get(src).get(s);
+            }
+        }
+        return -1;
     }
 
     @Override
