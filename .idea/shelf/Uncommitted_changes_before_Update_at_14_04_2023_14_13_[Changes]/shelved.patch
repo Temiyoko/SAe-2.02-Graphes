@@ -1,0 +1,79 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6751000\" />\r\n      <workItem from=\"1681292494350\" duration=\"726000\" />\r\n      <workItem from=\"1681399796220\" duration=\"4422000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modified GrapheLArcs\">\r\n      <created>1681290544211</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681290544211</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Started GrapheLAdj\">\r\n      <created>1681293161511</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681293161511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681403812927</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681403812927</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <MESSAGE value=\"Modified GrapheLArcs\" />\r\n    <MESSAGE value=\"Started GrapheLAdj\" />\r\n    <MESSAGE value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7d7352ebbc64436a9907cbdc7f04a46a5dafd8c8)
++++ b/.idea/workspace.xml	(date 1681474427888)
+@@ -6,10 +6,7 @@
+   <component name="ChangeListManager">
+     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/graphe/Graphe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/Graphe.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -39,22 +36,23 @@
+     <option name="showMembers" value="true" />
+     <option name="showVisibilityIcons" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Downloaded.Files.Path.Enabled": "false",
++    "Repository.Attach.Annotations": "false",
++    "Repository.Attach.JavaDocs": "false",
++    "Repository.Attach.Sources": "false",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "Errors",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+Index: src/graphe/Graphe.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package graphe;\r\n\r\nimport java.util.List;\r\n\r\npublic abstract class Graphe implements IGraphe {\r\n\t@Override\r\n\t  public String toString() { return toAString(); }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/graphe/Graphe.java b/src/graphe/Graphe.java
+--- a/src/graphe/Graphe.java	(revision 7d7352ebbc64436a9907cbdc7f04a46a5dafd8c8)
++++ b/src/graphe/Graphe.java	(date 1681454877274)
+@@ -1,7 +1,5 @@
+ package graphe;
+ 
+-import java.util.List;
+-
+ public abstract class Graphe implements IGraphe {
+ 	@Override
+ 	  public String toString() { return toAString(); }
