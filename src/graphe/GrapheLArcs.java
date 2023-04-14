@@ -3,7 +3,7 @@ package graphe;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GrapheLArcs implements IGraphe {
+public class GrapheLArcs extends Graphe implements IGraphe {
 	private List<Arc> arcs;
 
 	public GrapheLArcs() {

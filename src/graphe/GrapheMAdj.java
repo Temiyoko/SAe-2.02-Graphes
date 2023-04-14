@@ -2,7 +2,7 @@ package graphe;
 
 import java.util.*;
 
-public class GrapheMAdj implements IGraphe{
+public class GrapheMAdj extends Graphe implements IGraphe{
     private int[][] matrice;
     private Map<String, Integer> indices;
 

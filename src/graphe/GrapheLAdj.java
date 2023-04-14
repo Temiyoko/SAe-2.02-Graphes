@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class GrapheLAdj implements IGraphe{
+public class GrapheLAdj extends Graphe implements IGraphe{
     private Map<String, List<Arc>> ladj;
 
     public GrapheLAdj() {

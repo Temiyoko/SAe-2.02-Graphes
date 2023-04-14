@@ -1,10 +1,15 @@
 package graphe;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class GrapheHHAdj implements IGraphe{
+public class GrapheHHAdj extends Graphe implements IGraphe{
     private Map<String, Map<String, Integer>> hhadj;
+
+    public GrapheHHAdj(){
+        hhadj = new HashMap<>();
+    }
 
     @Override
     public void ajouterSommet(String noeud) {
