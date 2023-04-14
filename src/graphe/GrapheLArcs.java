@@ -12,31 +12,44 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 
 	@Override
 	public void ajouterSommet(String noeud) {
-		ajouterArc(noeud, "", 0);
+		if(!contientSommet(noeud)) {
+			ajouterArc(noeud, "", 0);
+		}
 	}
 
 	@Override
-	public void ajouterArc(String source, String destination, Integer valeur) {
+	public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
 		assert(valeur >= 0);
-		if(contientArc(source, "")){
-			oterSommet(source);
+		if(!contientSommet(source)){
+			ajouterSommet(source);
+		}
+		if (!contientSommet(destination)){
+			ajouterSommet(destination);
+		}
+		if(contientArc(source, destination)){
+			throw new IllegalArgumentException();
 		}
 		arcs.add(new Arc(source, destination, valeur));
 	}
 
 	@Override
 	public void oterSommet(String noeud) {
-		for(Arc a : arcs){
-			if(a.getSource().equals(noeud)){
-				oterArc(noeud, a.getDestination());
-			} else if (a.getDestination().equals(noeud)) {
-				oterArc(a.getSource(), noeud);
+		if(contientSommet(noeud)){
+			for(Arc a : arcs){
+				if(a.getSource().equals(noeud)){
+					oterArc(noeud, a.getDestination());
+				} else if (a.getDestination().equals(noeud)) {
+					oterArc(a.getSource(), noeud);
+				}
 			}
 		}
 	}
 
 	@Override
-	public void oterArc(String source, String destination) {
+	public void oterArc(String source, String destination) throws IllegalArgumentException {
+		if (!contientArc(source, destination)) {
+			throw new IllegalArgumentException();
+		}
 		int cpt = 0;
 		for (Arc a : arcs){
 			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
@@ -69,7 +82,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 	public List<String> getSucc(String sommet) {
 		List<String> successeurs = new ArrayList<>();
 		for (Arc a : arcs){
-			if(a.getSource().equals(sommet)){
+			if(a.getSource().equals(sommet) && !a.getDestination().equals("")){
 				successeurs.add(a.getDestination());
 			}
 		}

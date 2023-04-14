@@ -14,35 +14,39 @@ public class GrapheLAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        ArrayList<Arc> vide = new ArrayList<>();
-        vide.add(new Arc(noeud));
-        ladj.put(noeud, vide);
+        if(!contientSommet(noeud)){
+            ladj.put(noeud, new ArrayList<>());
+        }
     }
 
     @Override
-    public void ajouterArc(String source, String destination, Integer valeur) {
-        assert(contientSommet(source) && valeur >= 0);
-        if(contientArc(source, "")){
-            ladj.get(source).remove(0);
+    public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException{
+        assert(valeur >= 0);
+        if(!contientSommet(source)){
+            ajouterSommet(source);
+        }
+        if(!contientSommet(destination)){
+            ajouterSommet(destination);
+        }
+        if(contientArc(source, destination)){
+            throw new IllegalArgumentException();
         }
         ladj.get(source).add(new Arc(source, destination, valeur));
     }
 
     @Override
     public void oterSommet(String noeud) {
-        assert(ladj.containsKey(noeud));
-        for (Arc a : ladj.get(noeud)){
-            oterArc(a.getSource(), a.getDestination());
+        if(!contientSommet(noeud)){
+            ladj.remove(noeud);
         }
-        ladj.remove(noeud);
     }
 
     @Override
-    public void oterArc(String source, String destination) {
-        ladj.get(source).removeIf(a -> a.getDestination().equals(destination));
-        if (ladj.get(source).isEmpty()){
-            ajouterArc(source, "", 0);
+    public void oterArc(String source, String destination) throws IllegalArgumentException {
+        if (!contientArc(source,destination)){
+            throw new IllegalArgumentException();
         }
+        ladj.get(source).removeIf(a -> a.getDestination().equals(destination));
     }
 
     @Override

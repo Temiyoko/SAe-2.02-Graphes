@@ -14,16 +14,22 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        HashMap<String, Integer> vide = new HashMap<>();
-        vide.put("", 0);
-        hhadj.put(noeud,vide);
+        if(!contientSommet(noeud)){
+            hhadj.put(noeud, new HashMap<>());
+        }
     }
 
     @Override
-    public void ajouterArc(String source, String destination, Integer valeur) {
-        assert(contientSommet(source));
-        if (contientArc(source, "")){
-            oterArc(source, "");
+    public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
+        assert(valeur >= 0);
+        if(!contientSommet(source)){
+            ajouterSommet(source);
+        }
+        if(!contientSommet(destination)){
+            ajouterSommet(destination);
+        }
+        if(contientArc(source, destination)){
+            throw new IllegalArgumentException();
         }
         HashMap<String, Integer> arcs = new HashMap<>();
         arcs.put(destination,valeur);
@@ -32,16 +38,17 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public void oterSommet(String noeud) {
-        assert(contientSommet(noeud));
+        if(contientSommet(noeud)){
+            hhadj.remove(noeud);
+        }
     }
 
     @Override
-    public void oterArc(String source, String destination) {
-        assert(contientArc(source, destination));
-        hhadj.get(source).remove(destination);
-        if(hhadj.get(source).isEmpty()){
-            ajouterArc(source, "", 0);
+    public void oterArc(String source, String destination) throws IllegalArgumentException {
+        if (!contientArc(source,destination)){
+            throw new IllegalArgumentException();
         }
+        hhadj.get(source).remove(destination);
     }
 
     @Override

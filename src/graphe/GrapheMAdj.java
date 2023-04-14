@@ -48,16 +48,28 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        Integer src = indices.get(noeud);
-        if (src == null) {
-            indices.put(noeud, indices.size());
-            agrandirMatrice();
-            Arrays.fill(matrice[src], -1);
+        if(!contientSommet(noeud)){
+            Integer src = indices.get(noeud);
+            if (src == null) {
+                indices.put(noeud, indices.size());
+                agrandirMatrice();
+                Arrays.fill(matrice[src], -1);
+            }
         }
     }
 
     @Override
-    public void ajouterArc(String source, String destination, Integer valeur) {
+    public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
+        assert(valeur >= 0);
+        if(!contientSommet(source)){
+            ajouterSommet(source);
+        }
+        if(!contientSommet(destination)){
+            ajouterSommet(destination);
+        }
+        if(contientArc(source, destination)){
+            throw new IllegalArgumentException();
+        }
         ajouterSommet(source);
         ajouterSommet(destination);
         matrice[indices.get(source)][indices.get(destination)] = valeur;
@@ -65,13 +77,19 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public void oterSommet(String noeud) {
-        Integer src = indices.get(noeud);
-        indices.remove(noeud);
-        retrecirMatrice(src);
+        if(contientSommet(noeud)){
+            Integer src = indices.get(noeud);
+            indices.remove(noeud);
+            retrecirMatrice(src);
+        }
+
     }
 
     @Override
-    public void oterArc(String source, String destination) {
+    public void oterArc(String source, String destination) throws IllegalArgumentException{
+        if(!contientArc(source,destination)){
+            throw new IllegalArgumentException();
+        }
         matrice[indices.get(source)][indices.get(destination)] = -1;
     }
 
