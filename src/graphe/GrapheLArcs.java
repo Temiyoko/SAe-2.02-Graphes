@@ -13,7 +13,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 	@Override
 	public void ajouterSommet(String noeud) {
 		if(!contientSommet(noeud)) {
-			ajouterArc(noeud, "", 0);
+			arcs.add(new Arc(noeud));
 		}
 	}
 
