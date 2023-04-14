@@ -18,6 +18,9 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 	@Override
 	public void ajouterArc(String source, String destination, Integer valeur) {
 		assert(valeur >= 0);
+		if(contientArc(source, "")){
+			//On retire l'arc vide
+		}
 		arcs.add(new Arc(source, destination, valeur));
 	}
 
@@ -40,6 +43,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 				break;
 			}
 		}
+		// Si on n'a plus d'arc avec la source on le rajoute en sommet
 	}
 
 	@Override

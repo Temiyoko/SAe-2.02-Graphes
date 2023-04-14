@@ -40,6 +40,9 @@ public class GrapheLAdj extends Graphe implements IGraphe{
     @Override
     public void oterArc(String source, String destination) {
         ladj.get(source).removeIf(a -> a.getDestination().equals(destination));
+        if (ladj.get(source).isEmpty()){
+            ajouterArc(source, "", 0);
+        }
     }
 
     @Override
