@@ -1,0 +1,294 @@
+Index: src/graphe/GrapheLArcs.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package graphe;\r\n\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\n\r\npublic class GrapheLArcs implements IGraphe {\r\n\tprivate List<Arc> arcs;\r\n\r\n\tpublic GrapheLArcs() {\r\n\t\tarcs = new ArrayList<>();\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterSommet(String noeud) {\r\n\t\tajouterArc(noeud, \"\", 0);\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterArc(String source, String destination, Integer valeur) {\r\n\t\tarcs.add(new Arc(source, destination, valeur));\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterSommet(String noeud) {\r\n\t\toterArc(noeud, \"\");\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterArc(String source, String destination) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif (a.getSource() == source && a.getDestination() == destination){\r\n\t\t\t\tarcs.remove(a);\r\n\t\t\t\tbreak;\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSommets() {\r\n\t\tList<String> sommets = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getDestination() == \"\"){\r\n\t\t\t\tsommets.add(a.getSource());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn sommets;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSucc(String sommet) {\r\n\t\tList<String> successeurs = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == sommet){\r\n\t\t\t\tsuccesseurs.add(a.getDestination());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn successeurs;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic int getValuation(String src, String dest) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == src && a.getDestination() == dest) {\r\n\t\t\t\treturn a.getValuation();\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn -1;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientSommet(String sommet) {\r\n\t\treturn contientArc(sommet, \"\");\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientArc(String src, String dest) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == src && a.getDestination() == dest){\r\n\t\t\t\treturn true;\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn false;\r\n\t}\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/graphe/GrapheLArcs.java b/src/graphe/GrapheLArcs.java
+--- a/src/graphe/GrapheLArcs.java	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
++++ b/src/graphe/GrapheLArcs.java	(date 1681292263085)
+@@ -28,7 +28,7 @@
+ 	@Override
+ 	public void oterArc(String source, String destination) {
+ 		for (Arc a : arcs){
+-			if (a.getSource() == source && a.getDestination() == destination){
++			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
+ 				arcs.remove(a);
+ 				break;
+ 			}
+@@ -39,7 +39,7 @@
+ 	public List<String> getSommets() {
+ 		List<String> sommets = new ArrayList<>();
+ 		for (Arc a : arcs){
+-			if(a.getDestination() == ""){
++			if(a.getDestination().equals("")){
+ 				sommets.add(a.getSource());
+ 			}
+ 		}
+@@ -50,7 +50,7 @@
+ 	public List<String> getSucc(String sommet) {
+ 		List<String> successeurs = new ArrayList<>();
+ 		for (Arc a : arcs){
+-			if(a.getSource() == sommet){
++			if(a.getSource().equals(sommet)){
+ 				successeurs.add(a.getDestination());
+ 			}
+ 		}
+@@ -60,7 +60,7 @@
+ 	@Override
+ 	public int getValuation(String src, String dest) {
+ 		for (Arc a : arcs){
+-			if(a.getSource() == src && a.getDestination() == dest) {
++			if(a.getSource().equals(src) && a.getDestination().equals(dest)) {
+ 				return a.getValuation();
+ 			}
+ 		}
+@@ -75,7 +75,7 @@
+ 	@Override
+ 	public boolean contientArc(String src, String dest) {
+ 		for (Arc a : arcs){
+-			if(a.getSource() == src && a.getDestination() == dest){
++			if(a.getSource().equals(src) && a.getDestination().equals(dest)){
+ 				return true;
+ 			}
+ 		}
+Index: src/graphe/GrapheMAdj.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package graphe;\r\n\r\nimport java.util.List;\r\nimport java.util.Map;\r\npublic class GrapheMAdj implements IGraphe{\r\n    private int[][] matrice;\r\n    private Map<String, Integer> indices;\r\n\r\n    @Override\r\n    public void ajouterSommet(String noeud) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void ajouterArc(String source, String destination, Integer valeur) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void oterSommet(String noeud) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void oterArc(String source, String destination) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public List<String> getSommets() {\r\n        return null;\r\n    }\r\n\r\n    @Override\r\n    public List<String> getSucc(String sommet) {\r\n        return null;\r\n    }\r\n\r\n    @Override\r\n    public int getValuation(String src, String dest) {\r\n        return 0;\r\n    }\r\n\r\n    @Override\r\n    public boolean contientSommet(String sommet) {\r\n        return false;\r\n    }\r\n\r\n    @Override\r\n    public boolean contientArc(String src, String dest) {\r\n        return false;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/graphe/GrapheMAdj.java b/src/graphe/GrapheMAdj.java
+--- a/src/graphe/GrapheMAdj.java	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
++++ b/src/graphe/GrapheMAdj.java	(date 1681292263076)
+@@ -1,53 +1,111 @@
+ package graphe;
+ 
+-import java.util.List;
+-import java.util.Map;
++import java.util.*;
++
+ public class GrapheMAdj implements IGraphe{
+     private int[][] matrice;
+     private Map<String, Integer> indices;
+ 
++    public GrapheMAdj(){
++        matrice = new int[0][0];
++        indices = new HashMap<>();
++    }
++
++    private void agrandirMatrice(){
++        int[][] nouvelleMatrice = new int[matrice.length + 1][matrice[0].length + 1];
++        for (int i = 0 ; i < matrice.length ; ++i){
++            nouvelleMatrice[i] = Arrays.copyOf(matrice[i], matrice[0].length + 1);
++            nouvelleMatrice[i][matrice[0].length] = -1;
++        }
++        matrice = nouvelleMatrice;
++    }
++
++    private void retrecirMatrice(int noeud){
++        int ligne = 0;
++        int[][] nouvelleMatrice = new int[matrice.length - 1][matrice[0].length - 1];
++        for (int i = 0 ; i < nouvelleMatrice.length ; ++i){
++            if(i != noeud) {
++                int col = 0;
++                for (int j = 0 ; j < matrice[0].length ; ++j) {
++                    if (j != noeud){
++                        nouvelleMatrice[ligne][col++] = matrice[i][j];
++                    }
++                }
++                ligne++;
++            }
++        }
++        matrice = nouvelleMatrice;
++    }
++
++    private String getCle(Map<String, Integer> map, int index){
++        for(String s : map.keySet()){
++            if(map.get(s) == index){
++                return s;
++            }
++        }
++        return null;
++    }
++
+     @Override
+     public void ajouterSommet(String noeud) {
+-
++        Integer src = indices.get(noeud);
++        if (src == null) {
++            indices.put(noeud, indices.size());
++            agrandirMatrice();
++            Arrays.fill(matrice[src], -1);
++        }
+     }
+ 
+     @Override
+     public void ajouterArc(String source, String destination, Integer valeur) {
+-
++        ajouterSommet(source);
++        ajouterSommet(destination);
++        matrice[indices.get(source)][indices.get(destination)] = valeur;
+     }
+ 
+     @Override
+     public void oterSommet(String noeud) {
+-
++        Integer src = indices.get(noeud);
++        indices.remove(noeud);
++        retrecirMatrice(src);
+     }
+ 
+     @Override
+     public void oterArc(String source, String destination) {
+-
++        matrice[indices.get(source)][indices.get(destination)] = -1;
+     }
+ 
+     @Override
+     public List<String> getSommets() {
+-        return null;
++        return new ArrayList<>(indices.keySet());
+     }
+ 
+     @Override
+     public List<String> getSucc(String sommet) {
+-        return null;
++        List<String> successeurs = new ArrayList<>();
++        Integer indice = indices.get(sommet);
++        for (int i = 0 ; i < matrice.length ; ++i){
++            if (matrice[indice][i] != -1){
++                String s = getCle(indices, i);
++                successeurs.add(s);
++            }
++        }
++        return successeurs;
+     }
+ 
+     @Override
+     public int getValuation(String src, String dest) {
+-        return 0;
++        assert(contientSommet(src) && contientSommet(dest));
++        return matrice[indices.get(src)][indices.get(dest)];
+     }
+ 
+     @Override
+     public boolean contientSommet(String sommet) {
+-        return false;
++        return indices.containsKey(sommet);
+     }
+ 
+     @Override
+     public boolean contientArc(String src, String dest) {
+-        return false;
++        return getValuation(src, dest) != -1;
+     }
+ }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Coded GrapheLArcs\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"3054000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Coded GrapheLArcs\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
++++ b/.idea/workspace.xml	(date 1681292263143)
+@@ -4,7 +4,14 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLArcs" />
++    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLArcs">
++      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -24,7 +31,9 @@
+     <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+Index: .idea/git_toolbox_prj.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+new file mode 100644
+--- /dev/null	(date 1681283801732)
++++ b/.idea/git_toolbox_prj.xml	(date 1681283801732)
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="GitToolBoxProjectSettings">
++    <option name="commitMessageIssueKeyValidationOverride">
++      <BoolValueOverride>
++        <option name="enabled" value="true" />
++      </BoolValueOverride>
++    </option>
++    <option name="commitMessageValidationEnabledOverride">
++      <BoolValueOverride>
++        <option name="enabled" value="true" />
++      </BoolValueOverride>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: Sae2.02.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Sae2.02.iml b/Sae2.02.iml
+--- a/Sae2.02.iml	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
++++ b/Sae2.02.iml	(date 1681283801745)
+@@ -33,5 +33,31 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
++    <orderEntry type="module-library">
++      <library name="JUnit4">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++    <orderEntry type="module-library">
++      <library name="JUnit5.8.1">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
+   </component>
+ </module>
+\ No newline at end of file
