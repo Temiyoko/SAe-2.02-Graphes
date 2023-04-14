@@ -120,7 +120,7 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public boolean contientArc(String src, String dest) {
-        if(!contientSommet(src)){
+        if(!contientSommet(src) || !contientSommet(dest)){
             return false;
         }
         return getValuation(src, dest) != -1;

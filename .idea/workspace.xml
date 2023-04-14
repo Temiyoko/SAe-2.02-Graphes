@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Updated GrapheLArcs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="First test passes">
       <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681477350979</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="First test passes">
+      <created>1681485779607</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681485779607</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +214,7 @@
     <MESSAGE value="Minor changes in GrapheLArcs" />
     <MESSAGE value="Added exceptions" />
     <MESSAGE value="Updated GrapheLArcs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated GrapheLArcs" />
+    <MESSAGE value="First test passes" />
+    <option name="LAST_COMMIT_MESSAGE" value="First test passes" />
   </component>
 </project>
