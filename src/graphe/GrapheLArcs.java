@@ -19,7 +19,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 	public void ajouterArc(String source, String destination, Integer valeur) {
 		assert(valeur >= 0);
 		if(contientArc(source, "")){
-			//On retire l'arc vide
+			oterSommet(source);
 		}
 		arcs.add(new Arc(source, destination, valeur));
 	}
@@ -37,13 +37,18 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 
 	@Override
 	public void oterArc(String source, String destination) {
+		int cpt = 0;
 		for (Arc a : arcs){
 			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
 				arcs.remove(a);
-				break;
+			}
+			else if(a.getSource().equals(source)){
+				cpt++;
 			}
 		}
-		// Si on n'a plus d'arc avec la source on le rajoute en sommet
+		if(cpt == 0){
+			ajouterSommet(source);
+		}
 	}
 
 	@Override
