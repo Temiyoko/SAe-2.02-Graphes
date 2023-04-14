@@ -12,9 +12,9 @@ public class GrapheMAdj extends Graphe implements IGraphe{
     }
 
     private void agrandirMatrice(){
-        int[][] nouvelleMatrice = new int[matrice.length + 1][matrice[0].length + 1];
+        int[][] nouvelleMatrice = new int[matrice.length + 1][matrice.length + 1];
         for (int i = 0 ; i < matrice.length ; ++i){
-            nouvelleMatrice[i] = Arrays.copyOf(matrice[i], matrice[0].length + 1);
+            nouvelleMatrice[i] = Arrays.copyOf(matrice[i], matrice.length + 1);
             nouvelleMatrice[i][matrice[0].length] = -1;
         }
         matrice = nouvelleMatrice;
@@ -53,6 +53,7 @@ public class GrapheMAdj extends Graphe implements IGraphe{
             if (src == null) {
                 indices.put(noeud, indices.size());
                 agrandirMatrice();
+                src = indices.get(noeud);
                 Arrays.fill(matrice[src], -1);
             }
         }
@@ -60,18 +61,15 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
-        assert(valeur >= 0);
+        if(contientArc(source, destination) || valeur < 0){
+            throw new IllegalArgumentException();
+        }
         if(!contientSommet(source)){
             ajouterSommet(source);
         }
         if(!contientSommet(destination)){
             ajouterSommet(destination);
         }
-        if(contientArc(source, destination)){
-            throw new IllegalArgumentException();
-        }
-        ajouterSommet(source);
-        ajouterSommet(destination);
         matrice[indices.get(source)][indices.get(destination)] = valeur;
     }
 
@@ -82,7 +80,6 @@ public class GrapheMAdj extends Graphe implements IGraphe{
             indices.remove(noeud);
             retrecirMatrice(src);
         }
-
     }
 
     @Override
@@ -113,7 +110,6 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public int getValuation(String src, String dest) {
-        assert(contientSommet(src) && contientSommet(dest));
         return matrice[indices.get(src)][indices.get(dest)];
     }
 

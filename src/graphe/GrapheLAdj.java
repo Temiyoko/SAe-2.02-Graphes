@@ -21,15 +21,14 @@ public class GrapheLAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException{
-        assert(valeur >= 0);
+        if(contientArc(source, destination) || valeur < 0){
+            throw new IllegalArgumentException();
+        }
         if(!contientSommet(source)){
             ajouterSommet(source);
         }
         if(!contientSommet(destination)){
             ajouterSommet(destination);
-        }
-        if(contientArc(source, destination)){
-            throw new IllegalArgumentException();
         }
         ladj.get(source).add(new Arc(source, destination, valeur));
     }

@@ -21,17 +21,16 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
-        assert(valeur >= 0);
+        if(contientArc(source, destination) || valeur < 0){
+            throw new IllegalArgumentException();
+        }
         if(!contientSommet(source)){
             ajouterSommet(source);
         }
         if(!contientSommet(destination)){
             ajouterSommet(destination);
         }
-        if(contientArc(source, destination)){
-            throw new IllegalArgumentException();
-        }
-        HashMap<String, Integer> arcs = new HashMap<>();
+        HashMap<String, Integer> arcs = new HashMap<>(Map.copyOf(hhadj.get(source)));
         arcs.put(destination,valeur);
         hhadj.put(source, arcs);
     }
@@ -79,7 +78,9 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public boolean contientArc(String src, String dest) {
-        assert(contientSommet(src));
+        if (!contientSommet(src)) {
+            return false;
+        }
         for (String s : hhadj.get(src).keySet()){
             if(s.equals(dest)){
                 return true;
