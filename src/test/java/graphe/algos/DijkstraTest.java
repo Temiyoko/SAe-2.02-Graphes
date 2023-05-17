@@ -1,10 +1,11 @@
-package graphe.algos;
+package test.java.graphe.algos;
 
-import graphe.ihm.CheminATrouver;
-import graphe.ihm.GraphDirectoryImporter;
-import graphe.ihm.Main;
-import graphe.core.IGraphe;
-import graphe.implems.GrapheHHAdj;
+import main.java.graphe.ihm.CheminATrouver;
+import main.java.graphe.ihm.GraphDirectoryImporter;
+import main.java.graphe.ihm.Main;
+import main.java.graphe.core.IGraphe;
+import main.java.graphe.implems.GrapheHHAdj;
+import main.java.graphe.algos.DijkstraTools;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
