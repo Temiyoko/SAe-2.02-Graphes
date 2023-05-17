@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Cleaned up structure">
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/algos/DijkstraTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/algos/DijkstraTools.java" afterDir="false" />
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Updated tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/algos/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/algos/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphDirectoryImporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphDirectoryImporter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheMAdj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684332642563</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Updated tests">
+      <created>1684333331199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684333331199</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +295,7 @@
     <MESSAGE value="Update du fichier IGrapheTest pour la partie 2 et 3 ainsi que l'ajout du fichier Main et le PDF Perfs." />
     <MESSAGE value="Corrected import" />
     <MESSAGE value="Cleaned up structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up structure" />
+    <MESSAGE value="Updated tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated tests" />
   </component>
 </project>

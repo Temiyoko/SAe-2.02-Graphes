@@ -50,7 +50,7 @@ public class GrapheMAdj extends Graphe implements IGraphe{
 
     @Override
     public void ajouterSommet(String noeud) {
-        if(!contientSommet(noeud)){
+        if (!contientSommet(noeud)) {
             Integer src = indices.get(noeud);
             if (src == null) {
                 indices.put(noeud, indices.size());

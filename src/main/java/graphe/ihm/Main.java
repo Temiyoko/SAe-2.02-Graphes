@@ -32,6 +32,7 @@ public class Main {
     private static long chronoTousLesGraphesDeType(IGraphe g) {
         long dureeTotale = 0;
         GraphDirectoryImporter importer = new GraphDirectoryImporter(GRAPHES_REP, REPONSES_REP, false, g);
+        System.out.println(importer.getFichiersGraphes());
         for (CheminATrouver cat : importer) {
             dureeTotale += chrono(cat.getGraph(), cat.getSD_arc().getSource(),
                     cat.getSD_arc().getDestination(), cat.getDistance_attendue());

@@ -18,6 +18,10 @@ public class GraphDirectoryImporter implements Iterable<CheminATrouver>{
     private boolean traceOn;
     private IGraphe g;
 
+    public List<Path> getFichiersGraphes(){
+        return fichiersReponses;
+    }
+
     public GraphDirectoryImporter(String graphesRep, String reponsesRep, boolean traceOn, IGraphe g) {
         try {
             fichiersGraphes = Files.list(Paths.get(graphesRep))
