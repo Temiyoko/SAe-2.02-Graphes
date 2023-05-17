@@ -1,4 +1,6 @@
-package graphe;
+package main.java.graphe.implems;
+
+import main.java.graphe.core.*;
 
 import java.util.ArrayList;
 import java.util.List;

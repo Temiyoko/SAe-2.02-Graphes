@@ -1,7 +1,7 @@
-package graphe.ihm;
+package main.java.graphe.ihm;
 
-import graphe.core.Arc;
-import graphe.core.IGraphe;
+import main.java.graphe.core.Arc;
+import main.java.graphe.core.IGraphe;
 
 import java.io.IOException;
 import java.nio.file.Files;

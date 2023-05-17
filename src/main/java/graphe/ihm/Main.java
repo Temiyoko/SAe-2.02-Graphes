@@ -1,11 +1,11 @@
-package graphe.ihm;
+package main.java.graphe.ihm;
 
 import java.util.Map;
 import java.util.HashMap;
 
-import graphe.algos.DijkstraTools;
-import graphe.core.IGraphe;
-import graphe.implems.*;
+import main.java.graphe.algos.DijkstraTools;
+import main.java.graphe.core.IGraphe;
+import main.java.graphe.implems.*;
 
 
 public class Main {

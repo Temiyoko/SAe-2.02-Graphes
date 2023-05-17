@@ -1,26 +1,28 @@
-package graphe;
+package main.java.graphe.implems;
+
+import main.java.graphe.core.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class GrapheHHAdj extends Graphe implements IGraphe{
-    private Map<String, Map<String, Integer>> hhadj;
+public class GrapheLAdj extends Graphe implements IGraphe{
+    private Map<String, List<Arc>> ladj;
 
-    public GrapheHHAdj(){
-        hhadj = new HashMap<>();
+    public GrapheLAdj() {
+        ladj = new HashMap<>();
     }
 
     @Override
     public void ajouterSommet(String noeud) {
         if(!contientSommet(noeud)){
-            hhadj.put(noeud, new HashMap<>());
+            ladj.put(noeud, new ArrayList<>());
         }
     }
 
     @Override
-    public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException {
+    public void ajouterArc(String source, String destination, Integer valeur) throws IllegalArgumentException{
         if(contientArc(source, destination) || valeur < 0){
             throw new IllegalArgumentException();
         }
@@ -30,15 +32,13 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
         if(!contientSommet(destination)){
             ajouterSommet(destination);
         }
-        HashMap<String, Integer> arcs = new HashMap<>(Map.copyOf(hhadj.get(source)));
-        arcs.put(destination,valeur);
-        hhadj.put(source, arcs);
+        ladj.get(source).add(new Arc(source, destination, valeur));
     }
 
     @Override
     public void oterSommet(String noeud) {
-        if(contientSommet(noeud)){
-            hhadj.remove(noeud);
+        if(!contientSommet(noeud)){
+            ladj.remove(noeud);
         }
     }
 
@@ -47,25 +47,30 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
         if (!contientArc(source,destination)){
             throw new IllegalArgumentException();
         }
-        hhadj.get(source).remove(destination);
+        ladj.get(source).removeIf(a -> a.getDestination().equals(destination));
     }
 
     @Override
     public List<String> getSommets() {
-        return new ArrayList<>(hhadj.keySet());
+        return new ArrayList<>(ladj.keySet());
     }
 
     @Override
     public List<String> getSucc(String sommet) {
-        return new ArrayList<>(hhadj.get(sommet).keySet());
+        assert(ladj.containsKey(sommet));
+        List<String> succeseurs = new ArrayList<>();
+        for (Arc a : ladj.get(sommet)){
+            succeseurs.add(a.getDestination());
+        }
+        return succeseurs;
     }
 
     @Override
     public int getValuation(String src, String dest) {
         assert(contientSommet(src));
-        for (String s : hhadj.get(src).keySet()){
-            if (s.equals(dest)){
-                return hhadj.get(src).get(s);
+        for (Arc a : ladj.get(src)){
+            if (a.getDestination().equals(dest)){
+                return a.getValuation();
             }
         }
         return -1;
@@ -73,7 +78,7 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
 
     @Override
     public boolean contientSommet(String sommet) {
-        return hhadj.containsKey(sommet);
+        return ladj.containsKey(sommet);
     }
 
     @Override
@@ -81,8 +86,8 @@ public class GrapheHHAdj extends Graphe implements IGraphe{
         if (!contientSommet(src)) {
             return false;
         }
-        for (String s : hhadj.get(src).keySet()){
-            if(s.equals(dest)){
+        for (Arc a : ladj.get(src)){
+            if (a.getDestination().equals(dest)){
                 return true;
             }
         }

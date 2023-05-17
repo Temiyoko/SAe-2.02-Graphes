@@ -1,7 +1,7 @@
-package graphe.algos;
+package main.java.graphe.algos;
 
-import graphe.core.IGraphe;
-import graphe.core.IGrapheConst;
+import main.java.graphe.core.IGraphe;
+import main.java.graphe.core.IGrapheConst;
 
 import java.util.HashMap;
 import java.util.LinkedList;

@@ -1,11 +1,11 @@
-package graphe.core;
+package test.java.graphe.core;
 
-
-import graphe.ihm.GraphImporter;
-import graphe.implems.GrapheHHAdj;
-import graphe.implems.GrapheLAdj;
-import graphe.implems.GrapheLArcs;
-import graphe.implems.GrapheMAdj;
+import main.java.graphe.core.*;
+import main.java.graphe.ihm.GraphImporter;
+import main.java.graphe.implems.GrapheHHAdj;
+import main.java.graphe.implems.GrapheLAdj;
+import main.java.graphe.implems.GrapheLArcs;
+import main.java.graphe.implems.GrapheMAdj;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
@@ -13,7 +13,7 @@ import java.util.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class IGrapheTest {
-	private final graphe.core.IGraphe[] graphes = {
+	private final main.java.graphe.core.IGraphe[] graphes = {
 			new GrapheLArcs(), new GrapheLAdj(),
 			new GrapheMAdj(), new GrapheHHAdj()
 	};
@@ -48,7 +48,7 @@ class IGrapheTest {
 
 	@Test
 	void exo3_1Maths() {
-		for (graphe.core.IGraphe g : graphes) {
+		for (main.java.graphe.core.IGraphe g : graphes) {
 			g.peupler(g31a); 
 			tester3_1(g);			
 		}

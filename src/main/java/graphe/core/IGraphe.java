@@ -1,4 +1,4 @@
-package graphe.core;
+package main.java.graphe.core;
 
 // ajouterSommet ne fait rien si un sommet est deja present
 // ajouterArc leve une IllegalArgumentException si l'arc est deja present

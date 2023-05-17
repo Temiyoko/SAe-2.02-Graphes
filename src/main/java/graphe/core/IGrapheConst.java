@@ -1,4 +1,4 @@
-package graphe.core;
+package main.java.graphe.core;
 
 
 import java.util.ArrayList;
