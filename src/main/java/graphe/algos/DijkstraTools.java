@@ -7,8 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 public class DijkstraTools {
-        public static long time(IGrapheConst g, String source,
-                            Map<String, Integer> dist, Map<String, String> prev) {
+    public static long time(IGrapheConst g, String source, Map<String, Integer> dist, Map<String, String> prev) {
         long debut = System.nanoTime();
         Dijkstra.dijkstra(g, source, dist, prev);
         long fin = System.nanoTime();
