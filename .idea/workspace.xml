@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="First test passes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/Arc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/core/Arc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GraphImporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/Graphe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/core/Graphe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheHHAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheLAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheLArcs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheMAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/IGraphe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheConst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphe/Main.java" beforeDir="false" />
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Corrected import">
+      <change afterPath="$PROJECT_DIR$/src/main/java/graphe/algos/Dijkstra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/graphe/algos/DijkstraTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/algos/DijkstraTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/core/IGraphe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/core/IGraphe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/core/IGrapheConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/core/IGrapheConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/CheminATrouver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/CheminATrouver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphDirectoryImporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphDirectoryImporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphImporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/GraphImporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/ihm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/ihm/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/graphe/core/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/graphe/core/IGrapheTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +232,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683138149611</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Cleaned up structure">
+      <created>1684331873654</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684331873654</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cleaned up structure">
+      <created>1684331894874</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684331894874</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Corrected import">
+      <created>1684332408459</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684332408459</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +276,8 @@
     <MESSAGE value="Updated GrapheLArcs" />
     <MESSAGE value="First test passes" />
     <MESSAGE value="Update du fichier IGrapheTest pour la partie 2 et 3 ainsi que l'ajout du fichier Main et le PDF Perfs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update du fichier IGrapheTest pour la partie 2 et 3 ainsi que l'ajout du fichier Main et le PDF Perfs." />
+    <MESSAGE value="Cleaned up structure" />
+    <MESSAGE value="Corrected import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected import" />
   </component>
 </project>
