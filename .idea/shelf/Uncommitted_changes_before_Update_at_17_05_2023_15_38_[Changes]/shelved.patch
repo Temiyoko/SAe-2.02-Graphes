@@ -1,0 +1,1749 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,660 +0,0 @@
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]" date="1680699569792" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 05/04/2023 14:59 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,105 +0,0 @@
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/graphe/Arc.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Sae2.02.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Sae2.02.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/IGrapheTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/IGrapheTest.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision 5c644c2369f4562401cdd286bce7637707ccecf7)
+--+++ b/.idea/workspace.xml	(date 1680700840474)
+--@@ -5,14 +5,8 @@
+--   </component>
+--   <component name="ChangeListManager">
+--     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="">
+---      <change afterPath="$PROJECT_DIR$/src/graphe/Arc.java" afterDir="false" />
+--+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+--       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" afterDir="false" />
+--     </list>
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--@@ -33,29 +27,28 @@
+--     <option name="stateVersion" value="1" />
+--   </component>
+--   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+---  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+--+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+--+    <ConfirmationsSetting value="2" id="Add" />
+--+  </component>
+--   <component name="ProjectViewState">
+--     <option name="hideEmptyMiddlePackages" value="true" />
+--     <option name="showLibraryContents" value="true" />
+--     <option name="showMembers" value="true" />
+--     <option name="showVisibilityIcons" value="true" />
+--   </component>
+---  <component name="PropertiesComponent"><![CDATA[{
+---  "keyToString": {
+---    "Downloaded.Files.Path.Enabled": "false",
+---    "Repository.Attach.Annotations": "false",
+---    "Repository.Attach.JavaDocs": "false",
+---    "Repository.Attach.Sources": "false",
+---    "RunOnceActivity.OpenProjectViewOnStart": "true",
+---    "RunOnceActivity.ShowReadmeOnStart": "true",
+---    "WebServerToolWindowFactoryState": "false",
+---    "node.js.detected.package.eslint": "true",
+---    "node.js.detected.package.tslint": "true",
+---    "node.js.selected.package.eslint": "(autodetect)",
+---    "node.js.selected.package.tslint": "(autodetect)",
+---    "vue.rearranger.settings.migration": "true"
+--+  <component name="PropertiesComponent">{
+--+  &quot;keyToString&quot;: {
+--+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+--+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+--   }
+---}]]></component>
+--+}</component>
+--   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+--   <component name="TaskManager">
+--     <task active="true" id="Default" summary="Default task">
+--@@ -66,6 +59,7 @@
+--       <updated>1680697778101</updated>
+--       <workItem from="1680697779213" duration="164000" />
+--       <workItem from="1680698093814" duration="327000" />
+--+      <workItem from="1680698824790" duration="415000" />
+--     </task>
+--     <servers />
+--   </component>
+--Index: .idea/git_toolbox_prj.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+--new file mode 100644
+----- /dev/null	(date 1680700474191)
+--+++ b/.idea/git_toolbox_prj.xml	(date 1680700474191)
+--@@ -0,0 +1,15 @@
+--+<?xml version="1.0" encoding="UTF-8"?>
+--+<project version="4">
+--+  <component name="GitToolBoxProjectSettings">
+--+    <option name="commitMessageIssueKeyValidationOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+    <option name="commitMessageValidationEnabledOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+  </component>
+--+</project>
+--\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,162 +0,0 @@
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Added minimal constructor\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added minimal constructor\" />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision cbea76d642cd646ee96c7d66e0c891c3fcbc85a4)
+--+++ b/.idea/workspace.xml	(date 1680700883279)
+--@@ -4,7 +4,10 @@
+--     <option name="autoReloadType" value="SELECTIVE" />
+--   </component>
+--   <component name="ChangeListManager">
+---    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Added minimal constructor" />
+--+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="">
+--+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+--+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--+    </list>
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+--@@ -24,29 +27,31 @@
+--     <option name="stateVersion" value="1" />
+--   </component>
+--   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+---  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+--+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+--+    <ConfirmationsSetting value="2" id="Add" />
+--+  </component>
+--   <component name="ProjectViewState">
+--     <option name="hideEmptyMiddlePackages" value="true" />
+--     <option name="showLibraryContents" value="true" />
+--     <option name="showMembers" value="true" />
+--     <option name="showVisibilityIcons" value="true" />
+--   </component>
+---  <component name="PropertiesComponent"><![CDATA[{
+---  "keyToString": {
+---    "Downloaded.Files.Path.Enabled": "false",
+---    "Repository.Attach.Annotations": "false",
+---    "Repository.Attach.JavaDocs": "false",
+---    "Repository.Attach.Sources": "false",
+---    "RunOnceActivity.OpenProjectViewOnStart": "true",
+---    "RunOnceActivity.ShowReadmeOnStart": "true",
+---    "WebServerToolWindowFactoryState": "false",
+---    "node.js.detected.package.eslint": "true",
+---    "node.js.detected.package.tslint": "true",
+---    "node.js.selected.package.eslint": "(autodetect)",
+---    "node.js.selected.package.tslint": "(autodetect)",
+---    "vue.rearranger.settings.migration": "true"
+--+  <component name="PropertiesComponent">{
+--+  &quot;keyToString&quot;: {
+--+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+--+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+--+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+--+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+--+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+--   }
+---}]]></component>
+--+}</component>
+--   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+--   <component name="TaskManager">
+--     <task active="true" id="Default" summary="Default task">
+--@@ -58,21 +63,9 @@
+--       <workItem from="1680697779213" duration="164000" />
+--       <workItem from="1680698093814" duration="327000" />
+--     </task>
+---    <task id="LOCAL-00001" summary="Added minimal constructor">
+---      <created>1680700457215</created>
+---      <option name="number" value="00001" />
+---      <option name="presentableId" value="LOCAL-00001" />
+---      <option name="project" value="LOCAL" />
+---      <updated>1680700457215</updated>
+---    </task>
+---    <option name="localTasksCounter" value="2" />
+--     <servers />
+--   </component>
+--   <component name="TypeScriptGeneratedFilesManager">
+--     <option name="version" value="3" />
+--   </component>
+---  <component name="VcsManagerConfiguration">
+---    <MESSAGE value="Added minimal constructor" />
+---    <option name="LAST_COMMIT_MESSAGE" value="Added minimal constructor" />
+---  </component>
+-- </project>
+--\ No newline at end of file
+--Index: Sae2.02.iml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/Sae2.02.iml b/Sae2.02.iml
+----- a/Sae2.02.iml	(revision cbea76d642cd646ee96c7d66e0c891c3fcbc85a4)
+--+++ b/Sae2.02.iml	(date 1680701023135)
+--@@ -33,5 +33,31 @@
+--         <SOURCES />
+--       </library>
+--     </orderEntry>
+--+    <orderEntry type="module-library">
+--+      <library name="JUnit4">
+--+        <CLASSES>
+--+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+--+        </CLASSES>
+--+        <JAVADOC />
+--+        <SOURCES />
+--+      </library>
+--+    </orderEntry>
+--+    <orderEntry type="module-library">
+--+      <library name="JUnit5.8.1">
+--+        <CLASSES>
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+--+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+--+        </CLASSES>
+--+        <JAVADOC />
+--+        <SOURCES />
+--+      </library>
+--+    </orderEntry>
+--   </component>
+-- </module>
+--\ No newline at end of file
+--Index: .idea/git_toolbox_prj.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+--new file mode 100644
+----- /dev/null	(date 1680700851617)
+--+++ b/.idea/git_toolbox_prj.xml	(date 1680700851617)
+--@@ -0,0 +1,15 @@
+--+<?xml version="1.0" encoding="UTF-8"?>
+--+<project version="4">
+--+  <component name="GitToolBoxProjectSettings">
+--+    <option name="commitMessageIssueKeyValidationOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+    <option name="commitMessageValidationEnabledOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+  </component>
+--+</project>
+--\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,111 +0,0 @@
+--Index: src/graphe/GrapheLArcs.java
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+>package graphe;\r\n\r\nclass GrapheLArcs {\r\n\tprivate List<Arc> arcs;\r\n\r\n\tpublic GrapheLArcs(){\r\n\t\tthis.arcs = new List<Arc>();\r\n\t}\r\n}
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/src/graphe/GrapheLArcs.java b/src/graphe/GrapheLArcs.java
+----- a/src/graphe/GrapheLArcs.java	(revision 17433c73bdf64654ce4ca12e416926546e0cf83e)
+--+++ b/src/graphe/GrapheLArcs.java	(date 1680699241375)
+--@@ -1,6 +1,6 @@
+-- package graphe;
+-- 
+---class GrapheLArcs {
+--+public class GrapheLArcs {
+-- 	private List<Arc> arcs;
+-- 
+-- 	public GrapheLArcs(){
+--Index: src/Main.java
+--===================================================================
+--diff --git a/src/Main.java b/src/Main.java
+--deleted file mode 100644
+----- a/src/Main.java	(revision 17433c73bdf64654ce4ca12e416926546e0cf83e)
+--+++ /dev/null	(revision 17433c73bdf64654ce4ca12e416926546e0cf83e)
+--@@ -1,5 +0,0 @@
+---public class Main {
+---    public static void main(String[] args) {
+---        System.out.println("Hello world!");
+---    }
+---}
+--\ No newline at end of file
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/SA2.02 2023 v1.3 26 mars 17h15.pdf\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Sae2.02.iml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision 17433c73bdf64654ce4ca12e416926546e0cf83e)
+--+++ b/.idea/workspace.xml	(date 1680699241869)
+--@@ -5,13 +5,9 @@
+--   </component>
+--   <component name="ChangeListManager">
+--     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="">
+---      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/SA2.02 2023 v1.3 26 mars 17h15.pdf" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+--+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+--+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+--     </list>
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--@@ -32,18 +28,33 @@
+--     <option name="showMembers" value="true" />
+--     <option name="showVisibilityIcons" value="true" />
+--   </component>
+---  <component name="PropertiesComponent"><![CDATA[{
+---  "keyToString": {
+---    "RunOnceActivity.OpenProjectViewOnStart": "true",
+---    "RunOnceActivity.ShowReadmeOnStart": "true",
+---    "WebServerToolWindowFactoryState": "false",
+---    "node.js.detected.package.eslint": "true",
+---    "node.js.detected.package.tslint": "true",
+---    "node.js.selected.package.eslint": "(autodetect)",
+---    "node.js.selected.package.tslint": "(autodetect)",
+---    "vue.rearranger.settings.migration": "true"
+--+  <component name="PropertiesComponent">{
+--+  &quot;keyToString&quot;: {
+--+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+--   }
+---}]]></component>
+--+}</component>
+--+  <component name="RunManager">
+--+    <configuration default="true" type="JetRunConfigurationType">
+--+      <module name="SAe-2.02" />
+--+      <method v="2">
+--+        <option name="Make" enabled="true" />
+--+      </method>
+--+    </configuration>
+--+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+--+      <module name="SAe-2.02" />
+--+      <option name="filePath" />
+--+      <method v="2">
+--+        <option name="Make" enabled="true" />
+--+      </method>
+--+    </configuration>
+--+  </component>
+--   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+--   <component name="TaskManager">
+--     <task active="true" id="Default" summary="Default task">
+--@@ -54,6 +65,7 @@
+--       <updated>1680697778101</updated>
+--       <workItem from="1680697779213" duration="164000" />
+--       <workItem from="1680698093814" duration="327000" />
+--+      <workItem from="1680698864597" duration="374000" />
+--     </task>
+--     <servers />
+--   </component>
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]" date="1680700851893" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 05/04/2023 15:20 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,86 +0,0 @@
+--Index: .idea/git_toolbox_prj.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+--new file mode 100644
+----- /dev/null	(date 1680699377367)
+--+++ b/.idea/git_toolbox_prj.xml	(date 1680699377367)
+--@@ -0,0 +1,15 @@
+--+<?xml version="1.0" encoding="UTF-8"?>
+--+<project version="4">
+--+  <component name="GitToolBoxProjectSettings">
+--+    <option name="commitMessageIssueKeyValidationOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+    <option name="commitMessageValidationEnabledOverride">
+--+      <BoolValueOverride>
+--+        <option name="enabled" value="true" />
+--+      </BoolValueOverride>
+--+    </option>
+--+  </component>
+--+</project>
+--\ No newline at end of file
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1680698824790\" duration=\"415000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision 19829f00846a0bdb3bcc3bd5589b07d2005f0691)
+--+++ b/.idea/workspace.xml	(date 1680700386427)
+--@@ -4,13 +4,9 @@
+--     <option name="autoReloadType" value="SELECTIVE" />
+--   </component>
+--   <component name="ChangeListManager">
+---    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="">
+---      <change afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+--+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Creation des classes Partie 1">
+--+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+--       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+--     </list>
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--@@ -44,6 +40,7 @@
+--   "keyToString": {
+--     "RunOnceActivity.OpenProjectViewOnStart": "true",
+--     "RunOnceActivity.ShowReadmeOnStart": "true",
+--+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+--     "WebServerToolWindowFactoryState": "false",
+--     "node.js.detected.package.eslint": "true",
+--     "node.js.detected.package.tslint": "true",
+--@@ -63,11 +60,23 @@
+--       <updated>1680697778101</updated>
+--       <workItem from="1680697779213" duration="164000" />
+--       <workItem from="1680698093814" duration="327000" />
+---      <workItem from="1680698824790" duration="415000" />
+--+      <workItem from="1680698824790" duration="1252000" />
+--+    </task>
+--+    <task id="LOCAL-00001" summary="Creation des classes Partie 1">
+--+      <created>1680699370261</created>
+--+      <option name="number" value="00001" />
+--+      <option name="presentableId" value="LOCAL-00001" />
+--+      <option name="project" value="LOCAL" />
+--+      <updated>1680699370261</updated>
+--     </task>
+--+    <option name="localTasksCounter" value="2" />
+--     <servers />
+--   </component>
+--   <component name="TypeScriptGeneratedFilesManager">
+--     <option name="version" value="3" />
+--   </component>
+--+  <component name="VcsManagerConfiguration">
+--+    <MESSAGE value="Creation des classes Partie 1" />
+--+    <option name="LAST_COMMIT_MESSAGE" value="Creation des classes Partie 1" />
+--+  </component>
+-- </project>
+--\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]" date="1680700486563" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 05/04/2023 15:14 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ /dev/null	(revision f83a488765b3305693647212705f18cfdf77642d)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]" date="1680701035551" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 05/04/2023 15:23 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Improved GrapheLArcs\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6192000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Improved GrapheLArcs\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision f83a488765b3305693647212705f18cfdf77642d)
+-+++ b/.idea/workspace.xml	(date 1681453318048)
+-@@ -4,9 +4,16 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Improved GrapheLArcs">
+-+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheMAdj">
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59_[Changes]/shelved.patch" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14_[Changes]/shelved.patch" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_14__Changes_.xml" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20_[Changes]/shelved.patch" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_20__Changes_.xml" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23_[Changes]/shelved.patch" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_15_23__Changes_.xml" beforeDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -22,34 +29,40 @@
+-   </component>
+-   <component name="Git.Settings">
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-+  </component>
+-+  <component name="GitToolBoxStore">
+-+    <option name="projectConfigVersion" value="5" />
+-   </component>
+-   <component name="MarkdownSettingsMigration">
+-     <option name="stateVersion" value="1" />
+-   </component>
+-   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+--  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-+    <ConfirmationsSetting value="2" id="Add" />
+-+  </component>
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-     <option name="showMembers" value="true" />
+-     <option name="showVisibilityIcons" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "Downloaded.Files.Path.Enabled": "false",
+-+    "Repository.Attach.Annotations": "false",
+-+    "Repository.Attach.JavaDocs": "false",
+-+    "Repository.Attach.Sources": "false",
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)",
+-+    "nodejs_package_manager_path": "npm",
+-+    "vue.rearranger.settings.migration": "true"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-     <task active="true" id="Default" summary="Default task">
+-@@ -62,6 +75,7 @@
+-       <workItem from="1680698093814" duration="327000" />
+-       <workItem from="1681148693658" duration="241000" />
+-       <workItem from="1681280183354" duration="6192000" />
+-+      <workItem from="1681399411619" duration="941000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="Added minimal constructor">
+-       <created>1680700457215</created>
+-@@ -105,7 +119,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1681283772757</updated>
+-     </task>
+--    <option name="localTasksCounter" value="7" />
+-+    <task id="LOCAL-00007" summary="Coded GrapheMAdj">
+-+      <created>1681292351395</created>
+-+      <option name="number" value="00007" />
+-+      <option name="presentableId" value="LOCAL-00007" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1681292351395</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="8" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -118,6 +139,7 @@
+-     <MESSAGE value="Updated sources" />
+-     <MESSAGE value="Coded GrapheLArcs" />
+-     <MESSAGE value="Improved GrapheLArcs" />
+--    <option name="LAST_COMMIT_MESSAGE" value="Improved GrapheLArcs" />
+-+    <MESSAGE value="Coded GrapheMAdj" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Coded GrapheMAdj" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,126 +0,0 @@
+-Index: .idea/git_toolbox_prj.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+-new file mode 100644
+---- /dev/null	(date 1680701035262)
+-+++ b/.idea/git_toolbox_prj.xml	(date 1680701035262)
+-@@ -0,0 +1,15 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="GitToolBoxProjectSettings">
+-+    <option name="commitMessageIssueKeyValidationOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+    <option name="commitMessageValidationEnabledOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Classes implements IGraphe and IGrapheConst\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 48017418442084fc434fc359d43f1056fedcd81e)
+-+++ b/.idea/workspace.xml	(date 1681058423151)
+-@@ -4,7 +4,11 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Classes implements IGraphe and IGrapheConst" />
+-+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Creation des classes Partie 1">
+-+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -20,11 +24,16 @@
+-   <component name="Git.Settings">
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-   </component>
+-+  <component name="GitToolBoxStore">
+-+    <option name="projectConfigVersion" value="5" />
+-+  </component>
+-   <component name="MarkdownSettingsMigration">
+-     <option name="stateVersion" value="1" />
+-   </component>
+-   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+--  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-+    <ConfirmationsSetting value="2" id="Add" />
+-+  </component>
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-@@ -44,6 +53,7 @@
+-     "node.js.detected.package.tslint": "true",
+-     "node.js.selected.package.eslint": "(autodetect)",
+-     "node.js.selected.package.tslint": "(autodetect)",
+-+    "nodejs_package_manager_path": "npm",
+-     "vue.rearranger.settings.migration": "true"
+-   }
+- }]]></component>
+-@@ -57,6 +67,7 @@
+-       <updated>1680697778101</updated>
+-       <workItem from="1680697779213" duration="164000" />
+-       <workItem from="1680698093814" duration="327000" />
+-+      <workItem from="1681058390681" duration="33000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="Added minimal constructor">
+-       <created>1680700457215</created>
+-Index: Sae2.02.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Sae2.02.iml b/Sae2.02.iml
+---- a/Sae2.02.iml	(revision 48017418442084fc434fc359d43f1056fedcd81e)
+-+++ b/Sae2.02.iml	(date 1680701035252)
+-@@ -33,5 +33,31 @@
+-         <SOURCES />
+-       </library>
+-     </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit4">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit5.8.1">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-   </component>
+- </module>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]" date="1681283011570" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/04/2023 09:03 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]" date="1681292311851" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/04/2023 11:38 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,114 +0,0 @@
+-Index: src/graphe/GrapheLArcs.java
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>package graphe;\r\n\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\n\r\npublic class GrapheLArcs extends Graphe implements IGraphe {\r\n\tprivate List<Arc> arcs;\r\n\r\n\tpublic GrapheLArcs() {\r\n\t\tarcs = new ArrayList<>();\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterSommet(String noeud) {\r\n\t\tajouterArc(noeud, \"\", 0);\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterArc(String source, String destination, Integer valeur) {\r\n\t\tassert(valeur >= 0);\r\n\t\tif(contientArc(source, \"\")){\r\n\t\t\t//On retire l'arc vide\r\n\t\t}\r\n\t\tarcs.add(new Arc(source, destination, valeur));\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterSommet(String noeud) {\r\n\t\tfor(Arc a : arcs){\r\n\t\t\tif(a.getSource().equals(noeud)){\r\n\t\t\t\toterArc(noeud, a.getDestination());\r\n\t\t\t} else if (a.getDestination().equals(noeud)) {\r\n\t\t\t\toterArc(a.getSource(), noeud);\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterArc(String source, String destination) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif (a.getSource().equals(source) && a.getDestination().equals(destination)){\r\n\t\t\t\tarcs.remove(a);\r\n\t\t\t\tbreak;\r\n\t\t\t}\r\n\t\t}\r\n\t\t// Si on n'a plus d'arc avec la source on le rajoute en sommet\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSommets() {\r\n\t\tList<String> sommets = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(!sommets.contains(a.getSource())){\r\n\t\t\t\tsommets.add(a.getSource());\r\n\t\t\t}\r\n\t\t\tif (!sommets.contains(a.getDestination())){\r\n\t\t\t\tsommets.add(a.getDestination());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn sommets;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSucc(String sommet) {\r\n\t\tList<String> successeurs = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource().equals(sommet)){\r\n\t\t\t\tsuccesseurs.add(a.getDestination());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn successeurs;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic int getValuation(String src, String dest) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource().equals(src) && a.getDestination().equals(dest)) {\r\n\t\t\t\treturn a.getValuation();\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn -1;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientSommet(String sommet) {\r\n\t\tfor(Arc a : arcs){\r\n\t\t\tif(a.getSource().equals(sommet) || a.getDestination().equals(sommet)){\r\n\t\t\t\treturn true;\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn false;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientArc(String src, String dest) {\r\n\t\tif(!contientSommet(src)){\r\n\t\t\treturn false;\r\n\t\t}\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource().equals(src) && a.getDestination().equals(dest)){\r\n\t\t\t\treturn true;\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn false;\r\n\t}\r\n}\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/src/graphe/GrapheLArcs.java b/src/graphe/GrapheLArcs.java
+---- a/src/graphe/GrapheLArcs.java	(revision 7fe71cdd425c3d5d5174995006549f9fde7fb9c9)
+-+++ b/src/graphe/GrapheLArcs.java	(date 1681475120641)
+-@@ -19,7 +19,7 @@
+- 	public void ajouterArc(String source, String destination, Integer valeur) {
+- 		assert(valeur >= 0);
+- 		if(contientArc(source, "")){
+--			//On retire l'arc vide
+-+			oterSommet(source);
+- 		}
+- 		arcs.add(new Arc(source, destination, valeur));
+- 	}
+-@@ -37,13 +37,18 @@
+- 
+- 	@Override
+- 	public void oterArc(String source, String destination) {
+-+		int cpt = 0;
+- 		for (Arc a : arcs){
+- 			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
+- 				arcs.remove(a);
+--				break;
+-+			}
+-+			else if(a.getSource().equals(source)){
+-+				cpt++;
+- 			}
+- 		}
+--		// Si on n'a plus d'arc avec la source on le rajoute en sommet
+-+		if(cpt == 0){
+-+			ajouterSommet(source);
+-+		}
+- 	}
+- 
+- 	@Override
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Extended Graphe classes from Graphe\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6751000\" />\r\n      <workItem from=\"1681292494350\" duration=\"726000\" />\r\n      <workItem from=\"1681399796220\" duration=\"4422000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modified GrapheLArcs\">\r\n      <created>1681290544211</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681290544211</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Started GrapheLAdj\">\r\n      <created>1681293161511</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681293161511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681403812927</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681403812927</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Extended Graphe classes from Graphe\">\r\n      <created>1681454412932</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681454412932</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <MESSAGE value=\"Modified GrapheLArcs\" />\r\n    <MESSAGE value=\"Started GrapheLAdj\" />\r\n    <MESSAGE value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n    <MESSAGE value=\"Extended Graphe classes from Graphe\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Extended Graphe classes from Graphe\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 7fe71cdd425c3d5d5174995006549f9fde7fb9c9)
+-+++ b/.idea/workspace.xml	(date 1681475120703)
+-@@ -5,8 +5,9 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Extended Graphe classes from Graphe">
+-+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Yukiwi.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -36,22 +37,23 @@
+-     <option name="showMembers" value="true" />
+-     <option name="showVisibilityIcons" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "Downloaded.Files.Path.Enabled": "false",
+-+    "Repository.Attach.Annotations": "false",
+-+    "Repository.Attach.JavaDocs": "false",
+-+    "Repository.Attach.Sources": "false",
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)",
+-+    "vue.rearranger.settings.migration": "true"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-     <task active="true" id="Default" summary="Default task">
+-Index: .idea/dictionaries/Yukiwi.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/dictionaries/Yukiwi.xml b/.idea/dictionaries/Yukiwi.xml
+-new file mode 100644
+---- /dev/null	(date 1681454932960)
+-+++ b/.idea/dictionaries/Yukiwi.xml	(date 1681454932960)
+-@@ -0,0 +1,3 @@
+-+<component name="ProjectDictionaryState">
+-+  <dictionary name="Yukiwi" />
+-+</component>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]" date="1681280222537" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/04/2023 08:16 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]" date="1681453353366" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/04/2023 08:22 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]" date="1681475126518" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/04/2023 14:25 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,294 +0,0 @@
+-Index: src/graphe/GrapheLArcs.java
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>package graphe;\r\n\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\n\r\npublic class GrapheLArcs implements IGraphe {\r\n\tprivate List<Arc> arcs;\r\n\r\n\tpublic GrapheLArcs() {\r\n\t\tarcs = new ArrayList<>();\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterSommet(String noeud) {\r\n\t\tajouterArc(noeud, \"\", 0);\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void ajouterArc(String source, String destination, Integer valeur) {\r\n\t\tarcs.add(new Arc(source, destination, valeur));\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterSommet(String noeud) {\r\n\t\toterArc(noeud, \"\");\r\n\t}\r\n\r\n\t@Override\r\n\tpublic void oterArc(String source, String destination) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif (a.getSource() == source && a.getDestination() == destination){\r\n\t\t\t\tarcs.remove(a);\r\n\t\t\t\tbreak;\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSommets() {\r\n\t\tList<String> sommets = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getDestination() == \"\"){\r\n\t\t\t\tsommets.add(a.getSource());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn sommets;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic List<String> getSucc(String sommet) {\r\n\t\tList<String> successeurs = new ArrayList<>();\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == sommet){\r\n\t\t\t\tsuccesseurs.add(a.getDestination());\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn successeurs;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic int getValuation(String src, String dest) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == src && a.getDestination() == dest) {\r\n\t\t\t\treturn a.getValuation();\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn -1;\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientSommet(String sommet) {\r\n\t\treturn contientArc(sommet, \"\");\r\n\t}\r\n\r\n\t@Override\r\n\tpublic boolean contientArc(String src, String dest) {\r\n\t\tfor (Arc a : arcs){\r\n\t\t\tif(a.getSource() == src && a.getDestination() == dest){\r\n\t\t\t\treturn true;\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn false;\r\n\t}\r\n}\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/src/graphe/GrapheLArcs.java b/src/graphe/GrapheLArcs.java
+---- a/src/graphe/GrapheLArcs.java	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
+-+++ b/src/graphe/GrapheLArcs.java	(date 1681292263085)
+-@@ -28,7 +28,7 @@
+- 	@Override
+- 	public void oterArc(String source, String destination) {
+- 		for (Arc a : arcs){
+--			if (a.getSource() == source && a.getDestination() == destination){
+-+			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
+- 				arcs.remove(a);
+- 				break;
+- 			}
+-@@ -39,7 +39,7 @@
+- 	public List<String> getSommets() {
+- 		List<String> sommets = new ArrayList<>();
+- 		for (Arc a : arcs){
+--			if(a.getDestination() == ""){
+-+			if(a.getDestination().equals("")){
+- 				sommets.add(a.getSource());
+- 			}
+- 		}
+-@@ -50,7 +50,7 @@
+- 	public List<String> getSucc(String sommet) {
+- 		List<String> successeurs = new ArrayList<>();
+- 		for (Arc a : arcs){
+--			if(a.getSource() == sommet){
+-+			if(a.getSource().equals(sommet)){
+- 				successeurs.add(a.getDestination());
+- 			}
+- 		}
+-@@ -60,7 +60,7 @@
+- 	@Override
+- 	public int getValuation(String src, String dest) {
+- 		for (Arc a : arcs){
+--			if(a.getSource() == src && a.getDestination() == dest) {
+-+			if(a.getSource().equals(src) && a.getDestination().equals(dest)) {
+- 				return a.getValuation();
+- 			}
+- 		}
+-@@ -75,7 +75,7 @@
+- 	@Override
+- 	public boolean contientArc(String src, String dest) {
+- 		for (Arc a : arcs){
+--			if(a.getSource() == src && a.getDestination() == dest){
+-+			if(a.getSource().equals(src) && a.getDestination().equals(dest)){
+- 				return true;
+- 			}
+- 		}
+-Index: src/graphe/GrapheMAdj.java
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>package graphe;\r\n\r\nimport java.util.List;\r\nimport java.util.Map;\r\npublic class GrapheMAdj implements IGraphe{\r\n    private int[][] matrice;\r\n    private Map<String, Integer> indices;\r\n\r\n    @Override\r\n    public void ajouterSommet(String noeud) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void ajouterArc(String source, String destination, Integer valeur) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void oterSommet(String noeud) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public void oterArc(String source, String destination) {\r\n\r\n    }\r\n\r\n    @Override\r\n    public List<String> getSommets() {\r\n        return null;\r\n    }\r\n\r\n    @Override\r\n    public List<String> getSucc(String sommet) {\r\n        return null;\r\n    }\r\n\r\n    @Override\r\n    public int getValuation(String src, String dest) {\r\n        return 0;\r\n    }\r\n\r\n    @Override\r\n    public boolean contientSommet(String sommet) {\r\n        return false;\r\n    }\r\n\r\n    @Override\r\n    public boolean contientArc(String src, String dest) {\r\n        return false;\r\n    }\r\n}\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/src/graphe/GrapheMAdj.java b/src/graphe/GrapheMAdj.java
+---- a/src/graphe/GrapheMAdj.java	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
+-+++ b/src/graphe/GrapheMAdj.java	(date 1681292263076)
+-@@ -1,53 +1,111 @@
+- package graphe;
+- 
+--import java.util.List;
+--import java.util.Map;
+-+import java.util.*;
+-+
+- public class GrapheMAdj implements IGraphe{
+-     private int[][] matrice;
+-     private Map<String, Integer> indices;
+- 
+-+    public GrapheMAdj(){
+-+        matrice = new int[0][0];
+-+        indices = new HashMap<>();
+-+    }
+-+
+-+    private void agrandirMatrice(){
+-+        int[][] nouvelleMatrice = new int[matrice.length + 1][matrice[0].length + 1];
+-+        for (int i = 0 ; i < matrice.length ; ++i){
+-+            nouvelleMatrice[i] = Arrays.copyOf(matrice[i], matrice[0].length + 1);
+-+            nouvelleMatrice[i][matrice[0].length] = -1;
+-+        }
+-+        matrice = nouvelleMatrice;
+-+    }
+-+
+-+    private void retrecirMatrice(int noeud){
+-+        int ligne = 0;
+-+        int[][] nouvelleMatrice = new int[matrice.length - 1][matrice[0].length - 1];
+-+        for (int i = 0 ; i < nouvelleMatrice.length ; ++i){
+-+            if(i != noeud) {
+-+                int col = 0;
+-+                for (int j = 0 ; j < matrice[0].length ; ++j) {
+-+                    if (j != noeud){
+-+                        nouvelleMatrice[ligne][col++] = matrice[i][j];
+-+                    }
+-+                }
+-+                ligne++;
+-+            }
+-+        }
+-+        matrice = nouvelleMatrice;
+-+    }
+-+
+-+    private String getCle(Map<String, Integer> map, int index){
+-+        for(String s : map.keySet()){
+-+            if(map.get(s) == index){
+-+                return s;
+-+            }
+-+        }
+-+        return null;
+-+    }
+-+
+-     @Override
+-     public void ajouterSommet(String noeud) {
+--
+-+        Integer src = indices.get(noeud);
+-+        if (src == null) {
+-+            indices.put(noeud, indices.size());
+-+            agrandirMatrice();
+-+            Arrays.fill(matrice[src], -1);
+-+        }
+-     }
+- 
+-     @Override
+-     public void ajouterArc(String source, String destination, Integer valeur) {
+--
+-+        ajouterSommet(source);
+-+        ajouterSommet(destination);
+-+        matrice[indices.get(source)][indices.get(destination)] = valeur;
+-     }
+- 
+-     @Override
+-     public void oterSommet(String noeud) {
+--
+-+        Integer src = indices.get(noeud);
+-+        indices.remove(noeud);
+-+        retrecirMatrice(src);
+-     }
+- 
+-     @Override
+-     public void oterArc(String source, String destination) {
+--
+-+        matrice[indices.get(source)][indices.get(destination)] = -1;
+-     }
+- 
+-     @Override
+-     public List<String> getSommets() {
+--        return null;
+-+        return new ArrayList<>(indices.keySet());
+-     }
+- 
+-     @Override
+-     public List<String> getSucc(String sommet) {
+--        return null;
+-+        List<String> successeurs = new ArrayList<>();
+-+        Integer indice = indices.get(sommet);
+-+        for (int i = 0 ; i < matrice.length ; ++i){
+-+            if (matrice[indice][i] != -1){
+-+                String s = getCle(indices, i);
+-+                successeurs.add(s);
+-+            }
+-+        }
+-+        return successeurs;
+-     }
+- 
+-     @Override
+-     public int getValuation(String src, String dest) {
+--        return 0;
+-+        assert(contientSommet(src) && contientSommet(dest));
+-+        return matrice[indices.get(src)][indices.get(dest)];
+-     }
+- 
+-     @Override
+-     public boolean contientSommet(String sommet) {
+--        return false;
+-+        return indices.containsKey(sommet);
+-     }
+- 
+-     @Override
+-     public boolean contientArc(String src, String dest) {
+--        return false;
+-+        return getValuation(src, dest) != -1;
+-     }
+- }
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Coded GrapheLArcs\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"3054000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Coded GrapheLArcs\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
+-+++ b/.idea/workspace.xml	(date 1681292263143)
+-@@ -4,7 +4,14 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLArcs" />
+-+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLArcs">
+-+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -24,7 +31,9 @@
+-     <option name="stateVersion" value="1" />
+-   </component>
+-   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+--  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-+    <ConfirmationsSetting value="2" id="Add" />
+-+  </component>
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-Index: .idea/git_toolbox_prj.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+-new file mode 100644
+---- /dev/null	(date 1681283801732)
+-+++ b/.idea/git_toolbox_prj.xml	(date 1681283801732)
+-@@ -0,0 +1,15 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="GitToolBoxProjectSettings">
+-+    <option name="commitMessageIssueKeyValidationOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+    <option name="commitMessageValidationEnabledOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: Sae2.02.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Sae2.02.iml b/Sae2.02.iml
+---- a/Sae2.02.iml	(revision 6bc22f02acf4ce21c669a98cb5f9a98e8eef0d6e)
+-+++ b/Sae2.02.iml	(date 1681283801745)
+-@@ -33,5 +33,31 @@
+-         <SOURCES />
+-       </library>
+-     </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit4">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit5.8.1">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-   </component>
+- </module>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,103 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Class implements IGraphe and IGrapheConst\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/IGrapheConst.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/IGrapheConst.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/IGrapheTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/IGrapheTest.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"130000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Class implements IGraphe and IGrapheConst\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 8a72877feafd6104b6fd9b2d96de4fd5bcb59e14)
+-+++ b/.idea/workspace.xml	(date 1681282996332)
+-@@ -5,10 +5,8 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Class implements IGraphe and IGrapheConst">
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheConst.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/IGrapheTest.java" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -29,7 +27,9 @@
+-     <option name="stateVersion" value="1" />
+-   </component>
+-   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+--  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-+    <ConfirmationsSetting value="2" id="Add" />
+-+  </component>
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-Index: .idea/git_toolbox_prj.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+-new file mode 100644
+---- /dev/null	(date 1681280210799)
+-+++ b/.idea/git_toolbox_prj.xml	(date 1681280210799)
+-@@ -0,0 +1,15 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="GitToolBoxProjectSettings">
+-+    <option name="commitMessageIssueKeyValidationOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+    <option name="commitMessageValidationEnabledOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: Sae2.02.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Sae2.02.iml b/Sae2.02.iml
+---- a/Sae2.02.iml	(revision 8a72877feafd6104b6fd9b2d96de4fd5bcb59e14)
+-+++ b/Sae2.02.iml	(date 1681280222181)
+-@@ -33,5 +33,31 @@
+-         <SOURCES />
+-       </library>
+-     </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit4">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit5.8.1">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-   </component>
+- </module>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]" date="1681474434317" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/04/2023 14:13 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]" date="1681454877324" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/04/2023 08:47 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,103 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Updated sources\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"2708000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Updated sources\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision ba7907562f5a2e82afbc560a24630d6c30f5446e)
+-+++ b/.idea/workspace.xml	(date 1681283791765)
+-@@ -5,8 +5,11 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Updated sources">
+-+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2023_14_59__Changes_.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/Sae2.02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sae2.02.iml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -27,7 +30,9 @@
+-     <option name="stateVersion" value="1" />
+-   </component>
+-   <component name="ProjectId" id="2O0W3ARBrLd5NObkg4Zev4tTry5" />
+--  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-+    <ConfirmationsSetting value="2" id="Add" />
+-+  </component>
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-Index: .idea/git_toolbox_prj.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+-new file mode 100644
+---- /dev/null	(date 1681283011178)
+-+++ b/.idea/git_toolbox_prj.xml	(date 1681283011178)
+-@@ -0,0 +1,15 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="GitToolBoxProjectSettings">
+-+    <option name="commitMessageIssueKeyValidationOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+    <option name="commitMessageValidationEnabledOverride">
+-+      <BoolValueOverride>
+-+        <option name="enabled" value="true" />
+-+      </BoolValueOverride>
+-+    </option>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: Sae2.02.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit4\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n    <orderEntry type=\"module-library\">\r\n      <library name=\"JUnit5.8.1\">\r\n        <CLASSES>\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/\" />\r\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES />\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Sae2.02.iml b/Sae2.02.iml
+---- a/Sae2.02.iml	(revision ba7907562f5a2e82afbc560a24630d6c30f5446e)
+-+++ b/Sae2.02.iml	(date 1681283011193)
+-@@ -33,5 +33,31 @@
+-         <SOURCES />
+-       </library>
+-     </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit4">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-+    <orderEntry type="module-library">
+-+      <library name="JUnit5.8.1">
+-+        <CLASSES>
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+-+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+-+        </CLASSES>
+-+        <JAVADOC />
+-+        <SOURCES />
+-+      </library>
+-+    </orderEntry>
+-   </component>
+- </module>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]" date="1681283802048" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/04/2023 09:16 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,76 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6751000\" />\r\n      <workItem from=\"1681292494350\" duration=\"726000\" />\r\n      <workItem from=\"1681399796220\" duration=\"4422000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modified GrapheLArcs\">\r\n      <created>1681290544211</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681290544211</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Started GrapheLAdj\">\r\n      <created>1681293161511</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681293161511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681403812927</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681403812927</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <MESSAGE value=\"Modified GrapheLArcs\" />\r\n    <MESSAGE value=\"Started GrapheLAdj\" />\r\n    <MESSAGE value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision e6f2311324effa760a8e378c82345e926e3ecaa3)
+-+++ b/.idea/workspace.xml	(date 1681454845092)
+-@@ -4,9 +4,9 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj">
+-+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Updated GrapheLAdj">
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/Graphe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/Graphe.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -63,7 +63,8 @@
+-       <workItem from="1681148693658" duration="241000" />
+-       <workItem from="1681280183354" duration="6751000" />
+-       <workItem from="1681292494350" duration="726000" />
+--      <workItem from="1681399796220" duration="4422000" />
+-+      <workItem from="1681399796220" duration="4453000" />
+-+      <workItem from="1681453862174" duration="974000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="Added minimal constructor">
+-       <created>1680700457215</created>
+-@@ -128,7 +129,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1681403812927</updated>
+-     </task>
+--    <option name="localTasksCounter" value="10" />
+-+    <task id="LOCAL-00010" summary="Updated GrapheLAdj">
+-+      <created>1681404286580</created>
+-+      <option name="number" value="00010" />
+-+      <option name="presentableId" value="LOCAL-00010" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1681404286580</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="11" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -144,6 +152,7 @@
+-     <MESSAGE value="Modified GrapheLArcs" />
+-     <MESSAGE value="Started GrapheLAdj" />
+-     <MESSAGE value="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj" />
+--    <option name="LAST_COMMIT_MESSAGE" value="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj" />
+-+    <MESSAGE value="Updated GrapheLAdj" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Updated GrapheLAdj" />
+-   </component>
+- </project>
+-\ No newline at end of file
+-Index: src/graphe/Graphe.java
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>package graphe;\r\n\r\nimport java.util.List;\r\n\r\npublic abstract class Graphe implements IGraphe {\r\n\t@Override\r\n\t  public String toString() { return toAString(); }\r\n}\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/src/graphe/Graphe.java b/src/graphe/Graphe.java
+---- a/src/graphe/Graphe.java	(revision e6f2311324effa760a8e378c82345e926e3ecaa3)
+-+++ b/src/graphe/Graphe.java	(date 1681454215632)
+-@@ -1,7 +1,5 @@
+- package graphe;
+- 
+--import java.util.List;
+--
+- public abstract class Graphe implements IGraphe {
+- 	@Override
+- 	  public String toString() { return toAString(); }
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ /dev/null	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
+@@ -1,79 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheHHAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLAdj.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheLArcs.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6751000\" />\r\n      <workItem from=\"1681292494350\" duration=\"726000\" />\r\n      <workItem from=\"1681399796220\" duration=\"4422000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modified GrapheLArcs\">\r\n      <created>1681290544211</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681290544211</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Started GrapheLAdj\">\r\n      <created>1681293161511</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681293161511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681403812927</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681403812927</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <MESSAGE value=\"Modified GrapheLArcs\" />\r\n    <MESSAGE value=\"Started GrapheLAdj\" />\r\n    <MESSAGE value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 7d7352ebbc64436a9907cbdc7f04a46a5dafd8c8)
+-+++ b/.idea/workspace.xml	(date 1681474427888)
+-@@ -6,10 +6,7 @@
+-   <component name="ChangeListManager">
+-     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj">
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheHHAdj.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLAdj.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheLArcs.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/src/graphe/Graphe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/Graphe.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -39,22 +36,23 @@
+-     <option name="showMembers" value="true" />
+-     <option name="showVisibilityIcons" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+--    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "Downloaded.Files.Path.Enabled": "false",
+-+    "Repository.Attach.Annotations": "false",
+-+    "Repository.Attach.JavaDocs": "false",
+-+    "Repository.Attach.Sources": "false",
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)",
+-+    "settings.editor.selected.configurable": "Errors",
+-+    "vue.rearranger.settings.migration": "true"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-     <task active="true" id="Default" summary="Default task">
+-Index: src/graphe/Graphe.java
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>package graphe;\r\n\r\nimport java.util.List;\r\n\r\npublic abstract class Graphe implements IGraphe {\r\n\t@Override\r\n\t  public String toString() { return toAString(); }\r\n}\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/src/graphe/Graphe.java b/src/graphe/Graphe.java
+---- a/src/graphe/Graphe.java	(revision 7d7352ebbc64436a9907cbdc7f04a46a5dafd8c8)
+-+++ b/src/graphe/Graphe.java	(date 1681454877274)
+-@@ -1,7 +1,5 @@
+- package graphe;
+- 
+--import java.util.List;
+--
+- public abstract class Graphe implements IGraphe {
+- 	@Override
+- 	  public String toString() { return toAString(); }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"First test passes\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/graphe/GrapheMAdj.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2O0W3ARBrLd5NObkg4Zev4tTry5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e87f04c3-5378-45c6-939d-518adf0cb391\" name=\"Changes\" comment=\"\" />\r\n      <created>1680697778101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680697778101</updated>\r\n      <workItem from=\"1680697779213\" duration=\"164000\" />\r\n      <workItem from=\"1680698093814\" duration=\"327000\" />\r\n      <workItem from=\"1681148693658\" duration=\"241000\" />\r\n      <workItem from=\"1681280183354\" duration=\"6751000\" />\r\n      <workItem from=\"1681292494350\" duration=\"726000\" />\r\n      <workItem from=\"1681399796220\" duration=\"4422000\" />\r\n      <workItem from=\"1681474071385\" duration=\"990000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added minimal constructor\">\r\n      <created>1680700457215</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700457215</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Classes implements IGraphe and IGrapheConst\">\r\n      <created>1680700777116</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680700777116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Class implements IGraphe and IGrapheConst\">\r\n      <created>1680701004982</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680701004982</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Updated sources\">\r\n      <created>1681148885334</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681148885334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Coded GrapheLArcs\">\r\n      <created>1681282966355</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681282966355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Improved GrapheLArcs\">\r\n      <created>1681283772757</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681283772757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modified GrapheLArcs\">\r\n      <created>1681290544211</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681290544211</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Started GrapheLAdj\">\r\n      <created>1681293161511</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681293161511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681403812927</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681403812927</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Extended Graphe classes from Graphe\">\r\n      <created>1681454412932</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681454412932</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Coded GrapheHHAdj and updated the others\">\r\n      <created>1681456940504</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681456940504</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Coded GrapheHHAdj and updated the others\">\r\n      <created>1681456953319</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681456953319</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\">\r\n      <created>1681475158207</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681475158207</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Minor changes in GrapheLArcs\">\r\n      <created>1681475176440</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681475176440</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Added exceptions\">\r\n      <created>1681477128882</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681477128882</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Updated GrapheLArcs\">\r\n      <created>1681477350979</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681477350979</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"First test passes\">\r\n      <created>1681485779607</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681485779607</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"18\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added minimal constructor\" />\r\n    <MESSAGE value=\"Classes implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Class implements IGraphe and IGrapheConst\" />\r\n    <MESSAGE value=\"Updated sources\" />\r\n    <MESSAGE value=\"Coded GrapheLArcs\" />\r\n    <MESSAGE value=\"Improved GrapheLArcs\" />\r\n    <MESSAGE value=\"Modified GrapheLArcs\" />\r\n    <MESSAGE value=\"Started GrapheLAdj\" />\r\n    <MESSAGE value=\"Extended Graphe classes from Graphe\" />\r\n    <MESSAGE value=\"Coded GrapheHHAdj and updated the others\" />\r\n    <MESSAGE value=\"Coded GrapheLAdj and minor changes in GrapheLArcs and GrapheMAdj\" />\r\n    <MESSAGE value=\"Minor changes in GrapheLArcs\" />\r\n    <MESSAGE value=\"Added exceptions\" />\r\n    <MESSAGE value=\"Updated GrapheLArcs\" />\r\n    <MESSAGE value=\"First test passes\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First test passes\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8cf88d559dba87ba79201b812af3edfb7711cd8c)
++++ b/.idea/workspace.xml	(date 1684330705453)
+@@ -5,7 +5,22 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="First test passes">
+-      <change beforePath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphe/GrapheMAdj.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_08_16__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_03__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_09_16__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_11_38__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_22__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_08_47__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_13__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_04_2023_14_25__Changes_.xml" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -73,6 +88,7 @@
+       <workItem from="1681292494350" duration="726000" />
+       <workItem from="1681399796220" duration="4422000" />
+       <workItem from="1681474071385" duration="990000" />
++      <workItem from="1684330402916" duration="300000" />
+     </task>
+     <task id="LOCAL-00001" summary="Added minimal constructor">
+       <created>1680700457215</created>
