@@ -30,12 +30,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 	@Override
 	public void oterSommet(String noeud) {
 		if(contientSommet(noeud)){
-			for(Arc a : arcs){
-				if(a.getSource().equals(noeud) && a.getDestination().equals("")){
-					arcs.remove(a);
-					break;
-				}
-			}
+			arcs.removeIf(arc -> arc.getSource().equals(noeud) || arc.getDestination().equals(noeud));
 		}
 	}
 
@@ -44,11 +39,7 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 		if (!contientArc(source, destination)) {
 			throw new IllegalArgumentException();
 		}
-		for (Arc a : arcs){
-			if (a.getSource().equals(source) && a.getDestination().equals(destination)){
-				arcs.remove(a);
-			}
-		}
+		arcs.removeIf(a -> a.getSource().equals(source) && a.getDestination().equals(destination));
 	}
 
 	@Override
@@ -57,6 +48,9 @@ public class GrapheLArcs extends Graphe implements IGraphe {
 		for (Arc a : arcs){
 			if(!sommets.contains(a.getSource())){
 				sommets.add(a.getSource());
+			}
+			if (!sommets.contains(a.getDestination())) {
+				sommets.add(a.getDestination());
 			}
 		}
 		return sommets;
