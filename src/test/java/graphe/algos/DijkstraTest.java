@@ -23,7 +23,7 @@ class DijkstraTest {
     @Test
     void testerTousLesGraphes() {
         GraphDirectoryImporter importer = new GraphDirectoryImporter(Main.GRAPHES_REP,
-                Main.REPONSES_REP, true, new GrapheLArcs());
+                Main.REPONSES_REP, true, new GrapheMAdj());
         for (CheminATrouver cat : importer) {
             checkAndTime(cat.getGraph(), cat.getSD_arc().getSource(),
                     cat.getSD_arc().getDestination(), cat.getDistance_attendue());

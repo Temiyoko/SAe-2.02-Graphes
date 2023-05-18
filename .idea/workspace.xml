@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Dikjstra">
+    <list default="true" id="e87f04c3-5378-45c6-939d-518adf0cb391" name="Changes" comment="Fixed GrapheLArcs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheLArcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheLArcs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheMAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphe/implems/GrapheMAdj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/graphe/algos/DijkstraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/graphe/algos/DijkstraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +71,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -290,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684339118731</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Fixed GrapheLArcs">
+      <created>1684342004195</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684342004195</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +325,7 @@
     <MESSAGE value="Cleaned up structure" />
     <MESSAGE value="Updated tests" />
     <MESSAGE value="Dikjstra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dikjstra" />
+    <MESSAGE value="Fixed GrapheLArcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed GrapheLArcs" />
   </component>
 </project>
