@@ -13,3 +13,5 @@ Tous les tests ont été validés. En revanche, le temps d'exécution peut deven
 NB : Les tests ci-dessous n'ont pas pu être directement ajoutés au dossier dû à leur taille.  
 - Graphes : https://www.dropbox.com/s/t3t0qbssjnwtrn5/graphes%202%20mai.zip?dl=0  
 - Réponses : https://www.dropbox.com/s/joaj7yg24mli5bs/reponses%202%20mai.zip?dl=0
+
+Note obtenue : 16/20
